@@ -1,0 +1,815 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CC	Makefile	/^CC=g++$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-Wall -g -std=c++11 -Wno-parentheses $/;"	m
+CJSON_EXPORT_SYMBOLS	cJSON.h	108;"	d
+CJSON_NESTING_LIMIT	cJSON.h	129;"	d
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_Compare(const cJSON * const a, const cJSON * const b, const cJSON_bool case_sensitive)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_HasObjectItem(const cJSON *object, const char *string)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsArray(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsBool(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsFalse(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsInvalid(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsNull(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsNumber(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsObject(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsRaw(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsString(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsTrue(const cJSON * const item)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_PrintPreallocated(cJSON *item, char *buf, const int len, const cJSON_bool fmt)$/;"	f
+CJSON_PUBLIC	cJSON.c	/^CJSON_PUBLIC(cJSON_bool) cJSON_ReplaceItemViaPointer(cJSON * const parent, cJSON * const item, cJSON * replacement)$/;"	f
+CJSON_PUBLIC	cJSON.h	112;"	d
+CJSON_PUBLIC	cJSON.h	114;"	d
+CJSON_PUBLIC	cJSON.h	116;"	d
+CJSON_PUBLIC	cJSON.h	120;"	d
+CJSON_PUBLIC	cJSON.h	122;"	d
+CJSON_VERSION_MAJOR	cJSON.h	32;"	d
+CJSON_VERSION_MINOR	cJSON.h	33;"	d
+CJSON_VERSION_PATCH	cJSON.h	34;"	d
+CLIENT_NET_READ_TIMEOUT	mysql.h	83;"	d
+CLIENT_NET_WRITE_TIMEOUT	mysql.h	84;"	d
+COMMON_H_INCLUDED	common.h	2;"	d
+CPPFLAGS	Makefile	/^CPPFLAGS= -L\/usr\/lib\/mysql$/;"	m
+Common	common.h	/^            Common()$/;"	f	class:lizongxin::common::Common
+Common	common.h	/^        class Common$/;"	c	namespace:lizongxin::common
+DB_CONNECTTIMEOUT	consts.cpp	/^int DB_CONNECTTIMEOUT = 10;$/;"	v
+DB_DATANAME	consts.cpp	/^string DB_DATANAME = "shoveeims3";$/;"	v
+DB_MAXCONNECTION	consts.cpp	/^int DB_MAXCONNECTION = 256;$/;"	v
+DB_MAX_IDLE_TIME	consts.cpp	/^int DB_MAX_IDLE_TIME = 0;$/;"	v
+DB_PASSWORD	consts.cpp	/^string DB_PASSWORD = "iloveeims3";$/;"	v
+DB_PORT	consts.cpp	/^int DB_PORT = 3306;$/;"	v
+DB_READTIMEOUT	consts.cpp	/^int DB_READTIMEOUT = 5;$/;"	v
+DB_SERVER	consts.cpp	/^string DB_SERVER = "localhost";$/;"	v
+DB_USER	consts.cpp	/^string DB_USER = "eims3";$/;"	v
+DB_WRITETIMEOUT	consts.cpp	/^int DB_WRITETIMEOUT = 20;$/;"	v
+DEBUG_FILE	consts.cpp	/^string DEBUG_FILE = "D:\\\\Debug.txt";$/;"	v
+DEBUG_FILE	consts.cpp	/^string DEBUG_FILE = "\/var\/log\/eims3server.log";$/;"	v
+EIMS_CONSTS_H	consts.h	2;"	d
+EMBEDDED_QUERY_RESULT	mysql.h	/^typedef struct embedded_query_result EMBEDDED_QUERY_RESULT;$/;"	t	typeref:struct:embedded_query_result
+ER_WARN_DATA_TRUNCATED	mysql.h	141;"	d
+GETAPPLICATIONURLSUCCESS	const.h	10;"	d
+GETAPPLICATIONURLSUCCESS	const.h	15;"	d
+GLOBAL_H_INCLUDED	global.h	2;"	d
+Global	global.h	/^	class Global$/;"	c	namespace:eims::global
+HANDLEMESSAGE_H	handlemessage.h	2;"	d
+HAVE_MYSQL_REAL_CONNECT	mysql.h	850;"	d
+HOST_ADDRESS	consts.cpp	/^string HOST_ADDRESS = "0.0.0.0:3000";$/;"	v
+HOST_PORT	consts.cpp	/^int HOST_PORT = 3000;$/;"	v
+HTTPPORT	consts.cpp	/^int HTTPPORT = 3005;$/;"	v
+HTTPTHREADS	consts.cpp	/^int HTTPTHREADS = 4;$/;"	v
+HandleMessage	handlemessage.cpp	/^    HandleMessage::HandleMessage():json()$/;"	f	class:lizongxin::HandleMessage
+HandleMessage	handlemessage.h	/^class HandleMessage $/;"	c	namespace:lizongxin
+INTERNAL_NUM_FIELD	mysql.h	95;"	d
+IS_BLOB	mysql.h	92;"	d
+IS_LONGDATA	mysql.h	96;"	d
+IS_NOT_NULL	mysql.h	91;"	d
+IS_NUM	mysql.h	93;"	d
+IS_NUM_FIELD	mysql.h	94;"	d
+IS_PRI_KEY	mysql.h	90;"	d
+JArray	json.h	/^typedef vector<Json> JArray;$/;"	t
+JObject	json.h	/^typedef map<string, Json> JObject;$/;"	t
+JSON_ARRAY	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+JSON_BOOLEAN	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+JSON_DOUBLE	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+JSON_EMPTY	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+JSON_INTEGER	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+JSON_OBJECT	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+JSON_STRING	json.h	/^    JSON_EMPTY, JSON_INTEGER, JSON_DOUBLE, JSON_BOOLEAN, JSON_STRING, JSON_ARRAY, JSON_OBJECT$/;"	e	enum:JsonType
+Json	json.cpp	/^Json::Json(const map<string, Json>& v)$/;"	f	class:Json
+Json	json.cpp	/^Json::Json(const vector<Json>& v)$/;"	f	class:Json
+Json	json.cpp	/^Json::Json(map<string, Json>&& v)$/;"	f	class:Json
+Json	json.cpp	/^Json::Json(vector<Json>&& v)$/;"	f	class:Json
+Json	json.h	/^    Json() : _type(JSON_EMPTY)$/;"	f	class:Json
+Json	json.h	/^    Json(bool v) : _type(JSON_BOOLEAN), v_bool(v)$/;"	f	class:Json
+Json	json.h	/^    Json(const char* v) : _type(JSON_STRING), v_string(v)$/;"	f	class:Json
+Json	json.h	/^    Json(const string& v) : _type(JSON_STRING), v_string(v)$/;"	f	class:Json
+Json	json.h	/^    Json(double v) : _type(JSON_DOUBLE), v_double(v)$/;"	f	class:Json
+Json	json.h	/^    Json(float v) : _type(JSON_DOUBLE), v_double(v)$/;"	f	class:Json
+Json	json.h	/^    Json(int v) : _type(JSON_INTEGER), v_int64(v)$/;"	f	class:Json
+Json	json.h	/^    Json(long long v) : _type(JSON_INTEGER), v_int64(v)$/;"	f	class:Json
+Json	json.h	/^    Json(short v) : _type(JSON_INTEGER), v_int64(v)$/;"	f	class:Json
+Json	json.h	/^    Json(string&& v) : _type(JSON_STRING), v_string(move(v))$/;"	f	class:Json
+Json	json.h	/^    Json(unsigned int v) : _type(JSON_INTEGER), v_int64(v)$/;"	f	class:Json
+Json	json.h	/^    Json(unsigned long long v) : _type(JSON_INTEGER), v_int64(v)$/;"	f	class:Json
+Json	json.h	/^    Json(unsigned short v) : _type(JSON_INTEGER), v_int64(v)$/;"	f	class:Json
+Json	json.h	/^class Json$/;"	c
+JsonType	json.h	/^enum JsonType$/;"	g
+LIBS	Makefile	/^LIBS=-lboost_system -lboost_thread -lpthread -lmysqlclient$/;"	m
+LIZONGXIN_CONFIGURE_FILE_H	configure_file.h	2;"	d
+LOCAL_INFILE_ERROR_LEN	mysql.h	475;"	d
+LOG	log.h	17;"	d
+LOG	log.h	22;"	d
+LOGINSUCCESS	const.h	8;"	d
+LOGPRINT	consts.cpp	/^int LOGPRINT = 1;$/;"	v
+LOGSUBSCRIBE	consts.cpp	/^int LOGSUBSCRIBE = 1;$/;"	v
+LOGWRITELEVEL	consts.cpp	/^int LOGWRITELEVEL = 6;$/;"	v
+MANAGER_ACCESS	mysql.h	344;"	d
+MANAGER_CLIENT_ERR	mysql.h	345;"	d
+MANAGER_INFO	mysql.h	343;"	d
+MANAGER_INTERNAL_ERR	mysql.h	346;"	d
+MANAGER_OK	mysql.h	342;"	d
+MAX	testjson.cpp	6;"	d	file:
+MAXTHREADS	consts.cpp	/^int MAXTHREADS = 4;$/;"	v
+MAX_MYSQL_MANAGER_ERR	mysql.h	339;"	d
+MAX_MYSQL_MANAGER_MSG	mysql.h	340;"	d
+MYSQL	mysql.h	/^} MYSQL;$/;"	t	typeref:struct:st_mysql
+MYSQL_BIND	mysql.h	/^} MYSQL_BIND;$/;"	t	typeref:struct:st_mysql_bind
+MYSQL_CLIENT	mysql.h	349;"	d
+MYSQL_COUNT_ERROR	mysql.h	138;"	d
+MYSQL_DATA	mysql.h	/^} MYSQL_DATA;$/;"	t	typeref:struct:st_mysql_data
+MYSQL_DATABASE	dao_mysql.h	13;"	d
+MYSQL_DATA_TRUNCATED	mysql.h	839;"	d
+MYSQL_FIELD	mysql.h	/^} MYSQL_FIELD;$/;"	t	typeref:struct:st_mysql_field
+MYSQL_FIELD_OFFSET	mysql.h	/^typedef unsigned int MYSQL_FIELD_OFFSET; \/* offset to current field *\/$/;"	t
+MYSQL_INIT_COMMAND	mysql.h	/^  MYSQL_INIT_COMMAND, MYSQL_READ_DEFAULT_FILE, MYSQL_READ_DEFAULT_GROUP,$/;"	e	enum:mysql_option
+MYSQL_MANAGER	mysql.h	/^} MYSQL_MANAGER;$/;"	t	typeref:struct:st_mysql_manager
+MYSQL_METHODS	mysql.h	/^} MYSQL_METHODS;$/;"	t	typeref:struct:st_mysql_methods
+MYSQL_NO_DATA	mysql.h	838;"	d
+MYSQL_OPT_COMPRESS	mysql.h	/^  MYSQL_OPT_CONNECT_TIMEOUT, MYSQL_OPT_COMPRESS, MYSQL_OPT_NAMED_PIPE,$/;"	e	enum:mysql_option
+MYSQL_OPT_CONNECT_TIMEOUT	mysql.h	/^  MYSQL_OPT_CONNECT_TIMEOUT, MYSQL_OPT_COMPRESS, MYSQL_OPT_NAMED_PIPE,$/;"	e	enum:mysql_option
+MYSQL_OPT_GUESS_CONNECTION	mysql.h	/^  MYSQL_OPT_GUESS_CONNECTION, MYSQL_SET_CLIENT_IP, MYSQL_SECURE_AUTH,$/;"	e	enum:mysql_option
+MYSQL_OPT_LOCAL_INFILE	mysql.h	/^  MYSQL_SET_CHARSET_DIR, MYSQL_SET_CHARSET_NAME, MYSQL_OPT_LOCAL_INFILE,$/;"	e	enum:mysql_option
+MYSQL_OPT_NAMED_PIPE	mysql.h	/^  MYSQL_OPT_CONNECT_TIMEOUT, MYSQL_OPT_COMPRESS, MYSQL_OPT_NAMED_PIPE,$/;"	e	enum:mysql_option
+MYSQL_OPT_PROTOCOL	mysql.h	/^  MYSQL_OPT_PROTOCOL, MYSQL_SHARED_MEMORY_BASE_NAME, MYSQL_OPT_READ_TIMEOUT,$/;"	e	enum:mysql_option
+MYSQL_OPT_READ_TIMEOUT	mysql.h	/^  MYSQL_OPT_PROTOCOL, MYSQL_SHARED_MEMORY_BASE_NAME, MYSQL_OPT_READ_TIMEOUT,$/;"	e	enum:mysql_option
+MYSQL_OPT_RECONNECT	mysql.h	/^  MYSQL_REPORT_DATA_TRUNCATION, MYSQL_OPT_RECONNECT,$/;"	e	enum:mysql_option
+MYSQL_OPT_SSL_VERIFY_SERVER_CERT	mysql.h	/^  MYSQL_OPT_SSL_VERIFY_SERVER_CERT$/;"	e	enum:mysql_option
+MYSQL_OPT_USE_EMBEDDED_CONNECTION	mysql.h	/^  MYSQL_OPT_USE_REMOTE_CONNECTION, MYSQL_OPT_USE_EMBEDDED_CONNECTION,$/;"	e	enum:mysql_option
+MYSQL_OPT_USE_REMOTE_CONNECTION	mysql.h	/^  MYSQL_OPT_USE_REMOTE_CONNECTION, MYSQL_OPT_USE_EMBEDDED_CONNECTION,$/;"	e	enum:mysql_option
+MYSQL_OPT_USE_RESULT	mysql.h	/^  MYSQL_OPT_WRITE_TIMEOUT, MYSQL_OPT_USE_RESULT,$/;"	e	enum:mysql_option
+MYSQL_OPT_WRITE_TIMEOUT	mysql.h	/^  MYSQL_OPT_WRITE_TIMEOUT, MYSQL_OPT_USE_RESULT,$/;"	e	enum:mysql_option
+MYSQL_PARAMETERS	mysql.h	/^} MYSQL_PARAMETERS;$/;"	t	typeref:struct:st_mysql_parameters
+MYSQL_PROTOCOL_DEFAULT	mysql.h	/^  MYSQL_PROTOCOL_DEFAULT, MYSQL_PROTOCOL_TCP, MYSQL_PROTOCOL_SOCKET,$/;"	e	enum:mysql_protocol_type
+MYSQL_PROTOCOL_MEMORY	mysql.h	/^  MYSQL_PROTOCOL_PIPE, MYSQL_PROTOCOL_MEMORY$/;"	e	enum:mysql_protocol_type
+MYSQL_PROTOCOL_PIPE	mysql.h	/^  MYSQL_PROTOCOL_PIPE, MYSQL_PROTOCOL_MEMORY$/;"	e	enum:mysql_protocol_type
+MYSQL_PROTOCOL_SOCKET	mysql.h	/^  MYSQL_PROTOCOL_DEFAULT, MYSQL_PROTOCOL_TCP, MYSQL_PROTOCOL_SOCKET,$/;"	e	enum:mysql_protocol_type
+MYSQL_PROTOCOL_TCP	mysql.h	/^  MYSQL_PROTOCOL_DEFAULT, MYSQL_PROTOCOL_TCP, MYSQL_PROTOCOL_SOCKET,$/;"	e	enum:mysql_protocol_type
+MYSQL_PWD	dao_mysql.h	12;"	d
+MYSQL_READ_DEFAULT_FILE	mysql.h	/^  MYSQL_INIT_COMMAND, MYSQL_READ_DEFAULT_FILE, MYSQL_READ_DEFAULT_GROUP,$/;"	e	enum:mysql_option
+MYSQL_READ_DEFAULT_GROUP	mysql.h	/^  MYSQL_INIT_COMMAND, MYSQL_READ_DEFAULT_FILE, MYSQL_READ_DEFAULT_GROUP,$/;"	e	enum:mysql_option
+MYSQL_REPORT_DATA_TRUNCATION	mysql.h	/^  MYSQL_REPORT_DATA_TRUNCATION, MYSQL_OPT_RECONNECT,$/;"	e	enum:mysql_option
+MYSQL_RES	mysql.h	/^} MYSQL_RES;$/;"	t	typeref:struct:st_mysql_res
+MYSQL_ROW	mysql.h	/^typedef char **MYSQL_ROW;		\/* return data as array of strings *\/$/;"	t
+MYSQL_ROWS	mysql.h	/^} MYSQL_ROWS;$/;"	t	typeref:struct:st_mysql_rows
+MYSQL_ROW_OFFSET	mysql.h	/^typedef MYSQL_ROWS *MYSQL_ROW_OFFSET;	\/* offset to current row *\/$/;"	t
+MYSQL_RPL_ADMIN	mysql.h	/^  MYSQL_RPL_MASTER, MYSQL_RPL_SLAVE, MYSQL_RPL_ADMIN$/;"	e	enum:mysql_rpl_type
+MYSQL_RPL_MASTER	mysql.h	/^  MYSQL_RPL_MASTER, MYSQL_RPL_SLAVE, MYSQL_RPL_ADMIN$/;"	e	enum:mysql_rpl_type
+MYSQL_RPL_SLAVE	mysql.h	/^  MYSQL_RPL_MASTER, MYSQL_RPL_SLAVE, MYSQL_RPL_ADMIN$/;"	e	enum:mysql_rpl_type
+MYSQL_SECURE_AUTH	mysql.h	/^  MYSQL_OPT_GUESS_CONNECTION, MYSQL_SET_CLIENT_IP, MYSQL_SECURE_AUTH,$/;"	e	enum:mysql_option
+MYSQL_SET_CHARSET_DIR	mysql.h	/^  MYSQL_SET_CHARSET_DIR, MYSQL_SET_CHARSET_NAME, MYSQL_OPT_LOCAL_INFILE,$/;"	e	enum:mysql_option
+MYSQL_SET_CHARSET_NAME	mysql.h	/^  MYSQL_SET_CHARSET_DIR, MYSQL_SET_CHARSET_NAME, MYSQL_OPT_LOCAL_INFILE,$/;"	e	enum:mysql_option
+MYSQL_SET_CLIENT_IP	mysql.h	/^  MYSQL_OPT_GUESS_CONNECTION, MYSQL_SET_CLIENT_IP, MYSQL_SECURE_AUTH,$/;"	e	enum:mysql_option
+MYSQL_SHARED_MEMORY_BASE_NAME	mysql.h	/^  MYSQL_OPT_PROTOCOL, MYSQL_SHARED_MEMORY_BASE_NAME, MYSQL_OPT_READ_TIMEOUT,$/;"	e	enum:mysql_option
+MYSQL_STATUS_GET_RESULT	mysql.h	/^  MYSQL_STATUS_READY, MYSQL_STATUS_GET_RESULT, MYSQL_STATUS_USE_RESULT,$/;"	e	enum:mysql_status
+MYSQL_STATUS_READY	mysql.h	/^  MYSQL_STATUS_READY, MYSQL_STATUS_GET_RESULT, MYSQL_STATUS_USE_RESULT,$/;"	e	enum:mysql_status
+MYSQL_STATUS_STATEMENT_GET_RESULT	mysql.h	/^  MYSQL_STATUS_STATEMENT_GET_RESULT$/;"	e	enum:mysql_status
+MYSQL_STATUS_USE_RESULT	mysql.h	/^  MYSQL_STATUS_READY, MYSQL_STATUS_GET_RESULT, MYSQL_STATUS_USE_RESULT,$/;"	e	enum:mysql_status
+MYSQL_STMT	mysql.h	/^} MYSQL_STMT;$/;"	t	typeref:struct:st_mysql_stmt
+MYSQL_STMT_EXECUTE_DONE	mysql.h	/^  MYSQL_STMT_INIT_DONE= 1, MYSQL_STMT_PREPARE_DONE, MYSQL_STMT_EXECUTE_DONE,$/;"	e	enum:enum_mysql_stmt_state
+MYSQL_STMT_FETCH_DONE	mysql.h	/^  MYSQL_STMT_FETCH_DONE$/;"	e	enum:enum_mysql_stmt_state
+MYSQL_STMT_INIT_DONE	mysql.h	/^  MYSQL_STMT_INIT_DONE= 1, MYSQL_STMT_PREPARE_DONE, MYSQL_STMT_EXECUTE_DONE,$/;"	e	enum:enum_mysql_stmt_state
+MYSQL_STMT_PREPARE_DONE	mysql.h	/^  MYSQL_STMT_INIT_DONE= 1, MYSQL_STMT_PREPARE_DONE, MYSQL_STMT_EXECUTE_DONE,$/;"	e	enum:enum_mysql_stmt_state
+MYSQL_USER	dao_mysql.h	11;"	d
+MY_CHARSET_INFO	mysql.h	/^} MY_CHARSET_INFO;$/;"	t	typeref:struct:character_set
+MessageMaxLength	tcp_session.h	17;"	d
+Node	configure_file.h	/^            struct Node$/;"	s	class:lizongxin::configure_file
+NumberToString	convert.h	/^        static string NumberToString(Type number)$/;"	f	class:lizongxin::convert
+OS_LINUX	consts.h	7;"	d
+PASSWORDERROR	const.h	5;"	d
+REGISTERERROR	const.h	6;"	d
+REGISTERSUCCESS	const.h	9;"	d
+RETURN	handlemessage.h	8;"	d
+SCRIPT_ENTRANCE_FILE	consts.cpp	/^string SCRIPT_ENTRANCE_FILE = "";$/;"	v
+SCRIPT_ENTRANCE_FUNC	consts.cpp	/^string SCRIPT_ENTRANCE_FUNC = "";$/;"	v
+SCRIPT_FOLDER_PATH	consts.cpp	/^string SCRIPT_FOLDER_PATH = "";$/;"	v
+SERVERERROR	const.h	4;"	d
+SERVER_MANAGER_H	server_manager.h	2;"	d
+SHOVE_CONVERT_H	convert.h	2;"	d
+SQL_MAX_LEN	dao_mysql.h	14;"	d
+STDCALL	mysql.h	60;"	d
+STDCALL	mysql.h	62;"	d
+STMT_ATTR_CURSOR_TYPE	mysql.h	/^  STMT_ATTR_CURSOR_TYPE,$/;"	e	enum:enum_stmt_attr_type
+STMT_ATTR_PREFETCH_ROWS	mysql.h	/^  STMT_ATTR_PREFETCH_ROWS$/;"	e	enum:enum_stmt_attr_type
+STMT_ATTR_UPDATE_MAX_LENGTH	mysql.h	/^  STMT_ATTR_UPDATE_MAX_LENGTH,$/;"	e	enum:enum_stmt_attr_type
+SUBSCRIBEPORT	consts.cpp	/^int SUBSCRIBEPORT = 3333;$/;"	v
+SUCCESS	const.h	7;"	d
+SYNRESPSUC	const.h	14;"	d
+StringToNumber	convert.h	/^        static Type StringToNumber(const string& str)$/;"	f	class:lizongxin::convert
+TESTSYNRESPSUC	const.h	13;"	d
+TimeToString	convert.cpp	/^    string convert::TimeToString()$/;"	f	class:lizongxin::convert
+TimeToString	convert.cpp	/^    string convert::TimeToString(const time_t& t)$/;"	f	class:lizongxin::convert
+UNKNOWN	const.h	12;"	d
+USEREXIST	const.h	11;"	d
+UTF2Uni	convert.cpp	/^    wstring convert::UTF2Uni(const char* src, wstring& t)$/;"	f	class:lizongxin::convert
+Uni2UTF	convert.cpp	/^    int convert::Uni2UTF(const wstring& strRes, char* utf8, int nMaxSize)$/;"	f	class:lizongxin::convert
+WIN	mysql.h	37;"	d
+_DAO_MYSQL_H_	dao_mysql.h	2;"	d
+_MAKE_LOG_H	log.h	2;"	d
+_WIN	mysql.h	38;"	d
+_WIN32	mysql.h	39;"	d
+_WIN64	mysql.h	40;"	d
+__CONST___H	const.h	2;"	d
+__EIMS3_SERVER_H_INC__	tcp_server.h	2;"	d
+__EIMS_SESSION_H_INC__	tcp_session.h	2;"	d
+__EIMS_SESSION_POOL_H_INC__	tcp_session_pool.h	3;"	d
+__MYSQLLIB_H_	mysqllib.h	2;"	d
+__WINDOWS__	cJSON.h	84;"	d
+__WIN__	mysql.h	41;"	d
+__WIN__	mysql.h	57;"	d
+_deBase64Help	convert.cpp	/^    void convert::_deBase64Help(unsigned char chuue[4], unsigned char chasc[3])$/;"	f	class:lizongxin::convert
+_enBase64Help	convert.cpp	/^    void convert::_enBase64Help(unsigned char chasc[3], unsigned char chuue[4])$/;"	f	class:lizongxin::convert
+_mysql_h	mysql.h	30;"	d
+_type	json.h	/^    JsonType _type;$/;"	m	class:Json
+abc	prehandle.c	2;"	d	file:
+advanced_command	mysql.h	/^  my_bool (*advanced_command)(MYSQL *mysql,$/;"	m	struct:st_mysql_methods
+affected_rows	mysql.h	/^  my_ulonglong   affected_rows;$/;"	m	struct:st_mysql_stmt
+affected_rows	mysql.h	/^  my_ulonglong affected_rows;$/;"	m	struct:st_mysql
+alloc	mysql.h	/^  MEM_ROOT alloc;$/;"	m	struct:st_mysql_data
+allocate	cJSON.c	/^    void *(*allocate)(size_t size);$/;"	m	struct:internal_hooks	file:
+arr	handlemessage.h	/^        char arr[1024];$/;"	m	class:lizongxin::HandleMessage
+array	cJSON.h	/^CJSON_PUBLIC(int) cJSON_GetArraySize(const cJSON *array);$/;"	v
+asBool	json.cpp	/^bool Json::asBool() const$/;"	f	class:Json
+asDouble	json.cpp	/^double Json::asDouble() const$/;"	f	class:Json
+asFloat	json.cpp	/^float Json::asFloat() const$/;"	f	class:Json
+asInt16	json.cpp	/^short Json::asInt16() const$/;"	f	class:Json
+asInt32	json.cpp	/^int Json::asInt32() const$/;"	f	class:Json
+asInt64	json.cpp	/^long long Json::asInt64() const$/;"	f	class:Json
+asMap	json.cpp	/^const map<string, Json>& Json::asMap() const$/;"	f	class:Json
+asMap	json.cpp	/^map<string, Json>& Json::asMap()$/;"	f	class:Json
+asString	json.cpp	/^const string& Json::asString() const$/;"	f	class:Json
+asUint16	json.cpp	/^unsigned short Json::asUint16() const$/;"	f	class:Json
+asUint32	json.cpp	/^unsigned int Json::asUint32() const$/;"	f	class:Json
+asUint64	json.cpp	/^unsigned long long Json::asUint64() const$/;"	f	class:Json
+asVector	json.cpp	/^const vector<Json>& Json::asVector() const$/;"	f	class:Json
+asVector	json.cpp	/^vector<Json>& Json::asVector()$/;"	f	class:Json
+bigint	consts.h	/^typedef long bigint;$/;"	t
+bigint	consts.h	/^typedef long long bigint;$/;"	t
+bind	mysql.h	/^  MYSQL_BIND     *bind;                \/* output parameters *\/$/;"	m	struct:st_mysql_stmt
+bind_param_done	mysql.h	/^  my_bool        bind_param_done;      \/* input buffers were supplied *\/$/;"	m	struct:st_mysql_stmt
+bind_result_done	mysql.h	/^  unsigned char  bind_result_done;     \/* output buffers were supplied *\/$/;"	m	struct:st_mysql_stmt
+boolean	cJSON.h	/^CJSON_PUBLIC(cJSON *) cJSON_CreateBool(cJSON_bool boolean);$/;"	v
+buffer	cJSON.c	/^    unsigned char *buffer;$/;"	m	struct:__anon3	file:
+buffer	mysql.h	/^  void		*buffer;	  \/* buffer to get\/put data *\/$/;"	m	struct:st_mysql_bind
+buffer_at_offset	cJSON.c	220;"	d	file:
+buffer_length	mysql.h	/^  unsigned long buffer_length;$/;"	m	struct:st_mysql_bind
+buffer_skip_whitespace	cJSON.c	/^static parse_buffer *buffer_skip_whitespace(parse_buffer * const buffer)$/;"	f	file:
+buffer_type	mysql.h	/^  enum enum_field_types buffer_type;	\/* buffer type *\/$/;"	m	struct:st_mysql_bind	typeref:enum:st_mysql_bind::enum_field_types
+c	cJSON.h	/^CJSON_PUBLIC(void) cJSON_Delete(cJSON *c);$/;"	v
+cJSON	cJSON.h	/^typedef struct cJSON$/;"	s
+cJSON	cJSON.h	/^} cJSON;$/;"	t	typeref:struct:cJSON
+cJSON_AddBoolToObject	cJSON.h	241;"	d
+cJSON_AddFalseToObject	cJSON.h	240;"	d
+cJSON_AddItemReferenceToArray	cJSON.c	/^CJSON_PUBLIC(void) cJSON_AddItemReferenceToArray(cJSON *array, cJSON *item)$/;"	f
+cJSON_AddItemReferenceToObject	cJSON.c	/^CJSON_PUBLIC(void) cJSON_AddItemReferenceToObject(cJSON *object, const char *string, cJSON *item)$/;"	f
+cJSON_AddItemToArray	cJSON.c	/^CJSON_PUBLIC(void) cJSON_AddItemToArray(cJSON *array, cJSON *item)$/;"	f
+cJSON_AddItemToObject	cJSON.c	/^CJSON_PUBLIC(void) cJSON_AddItemToObject(cJSON *object, const char *string, cJSON *item)$/;"	f
+cJSON_AddItemToObjectCS	cJSON.c	/^CJSON_PUBLIC(void) cJSON_AddItemToObjectCS(cJSON *object, const char *string, cJSON *item)$/;"	f
+cJSON_AddNullToObject	cJSON.h	238;"	d
+cJSON_AddNumberToObject	cJSON.h	242;"	d
+cJSON_AddRawToObject	cJSON.h	244;"	d
+cJSON_AddStringToObject	cJSON.h	243;"	d
+cJSON_AddTrueToObject	cJSON.h	239;"	d
+cJSON_Array	cJSON.h	45;"	d
+cJSON_ArrayForEach	cJSON.h	253;"	d
+cJSON_CreateArray	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateArray(void)$/;"	f
+cJSON_CreateBool	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateBool(cJSON_bool b)$/;"	f
+cJSON_CreateDoubleArray	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateDoubleArray(const double *numbers, int count)$/;"	f
+cJSON_CreateFalse	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateFalse(void)$/;"	f
+cJSON_CreateFloatArray	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateFloatArray(const float *numbers, int count)$/;"	f
+cJSON_CreateIntArray	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateIntArray(const int *numbers, int count)$/;"	f
+cJSON_CreateNull	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateNull(void)$/;"	f
+cJSON_CreateNumber	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateNumber(double num)$/;"	f
+cJSON_CreateObject	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateObject(void)$/;"	f
+cJSON_CreateRaw	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateRaw(const char *raw)$/;"	f
+cJSON_CreateString	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateString(const char *string)$/;"	f
+cJSON_CreateStringArray	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateStringArray(const char **strings, int count)$/;"	f
+cJSON_CreateTrue	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_CreateTrue(void)$/;"	f
+cJSON_Delete	cJSON.c	/^CJSON_PUBLIC(void) cJSON_Delete(cJSON *item)$/;"	f
+cJSON_DeleteItemFromArray	cJSON.c	/^CJSON_PUBLIC(void) cJSON_DeleteItemFromArray(cJSON *array, int which)$/;"	f
+cJSON_DeleteItemFromObject	cJSON.c	/^CJSON_PUBLIC(void) cJSON_DeleteItemFromObject(cJSON *object, const char *string)$/;"	f
+cJSON_DeleteItemFromObjectCaseSensitive	cJSON.c	/^CJSON_PUBLIC(void) cJSON_DeleteItemFromObjectCaseSensitive(cJSON *object, const char *string)$/;"	f
+cJSON_DetachItemFromArray	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_DetachItemFromArray(cJSON *array, int which)$/;"	f
+cJSON_DetachItemFromObject	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_DetachItemFromObject(cJSON *object, const char *string)$/;"	f
+cJSON_DetachItemFromObjectCaseSensitive	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_DetachItemFromObjectCaseSensitive(cJSON *object, const char *string)$/;"	f
+cJSON_DetachItemViaPointer	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_DetachItemViaPointer(cJSON *parent, cJSON * const item)$/;"	f
+cJSON_Duplicate	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_Duplicate(const cJSON *item, cJSON_bool recurse)$/;"	f
+cJSON_False	cJSON.h	40;"	d
+cJSON_GetArrayItem	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_GetArrayItem(const cJSON *array, int index)$/;"	f
+cJSON_GetArraySize	cJSON.c	/^CJSON_PUBLIC(int) cJSON_GetArraySize(const cJSON *array)$/;"	f
+cJSON_GetErrorPtr	cJSON.c	/^CJSON_PUBLIC(const char *) cJSON_GetErrorPtr(void)$/;"	f
+cJSON_GetObjectItem	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_GetObjectItem(const cJSON * const object, const char * const string)$/;"	f
+cJSON_GetObjectItemCaseSensitive	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_GetObjectItemCaseSensitive(const cJSON * const object, const char * const string)$/;"	f
+cJSON_Hooks	cJSON.h	/^typedef struct cJSON_Hooks$/;"	s
+cJSON_Hooks	cJSON.h	/^} cJSON_Hooks;$/;"	t	typeref:struct:cJSON_Hooks
+cJSON_InitHooks	cJSON.c	/^CJSON_PUBLIC(void) cJSON_InitHooks(cJSON_Hooks* hooks)$/;"	f
+cJSON_InsertItemInArray	cJSON.c	/^CJSON_PUBLIC(void) cJSON_InsertItemInArray(cJSON *array, int which, cJSON *newitem)$/;"	f
+cJSON_Invalid	cJSON.h	39;"	d
+cJSON_IsReference	cJSON.h	49;"	d
+cJSON_Minify	cJSON.c	/^CJSON_PUBLIC(void) cJSON_Minify(char *json)$/;"	f
+cJSON_NULL	cJSON.h	42;"	d
+cJSON_New_Item	cJSON.c	/^static cJSON *cJSON_New_Item(const internal_hooks * const hooks)$/;"	f	file:
+cJSON_Number	cJSON.h	43;"	d
+cJSON_Object	cJSON.h	46;"	d
+cJSON_Parse	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_Parse(const char *value)$/;"	f
+cJSON_ParseWithOpts	cJSON.c	/^CJSON_PUBLIC(cJSON *) cJSON_ParseWithOpts(const char *value, const char **return_parse_end, cJSON_bool require_null_terminated)$/;"	f
+cJSON_Print	cJSON.c	/^CJSON_PUBLIC(char *) cJSON_Print(const cJSON *item)$/;"	f
+cJSON_PrintBuffered	cJSON.c	/^CJSON_PUBLIC(char *) cJSON_PrintBuffered(const cJSON *item, int prebuffer, cJSON_bool fmt)$/;"	f
+cJSON_PrintUnformatted	cJSON.c	/^CJSON_PUBLIC(char *) cJSON_PrintUnformatted(const cJSON *item)$/;"	f
+cJSON_Raw	cJSON.h	47;"	d
+cJSON_ReplaceItemInArray	cJSON.c	/^CJSON_PUBLIC(void) cJSON_ReplaceItemInArray(cJSON *array, int which, cJSON *newitem)$/;"	f
+cJSON_ReplaceItemInObject	cJSON.c	/^CJSON_PUBLIC(void) cJSON_ReplaceItemInObject(cJSON *object, const char *string, cJSON *newitem)$/;"	f
+cJSON_ReplaceItemInObjectCaseSensitive	cJSON.c	/^CJSON_PUBLIC(void) cJSON_ReplaceItemInObjectCaseSensitive(cJSON *object, const char *string, cJSON *newitem)$/;"	f
+cJSON_SetIntValue	cJSON.h	247;"	d
+cJSON_SetNumberHelper	cJSON.c	/^CJSON_PUBLIC(double) cJSON_SetNumberHelper(cJSON *object, double number)$/;"	f
+cJSON_SetNumberValue	cJSON.h	250;"	d
+cJSON_String	cJSON.h	44;"	d
+cJSON_StringIsConst	cJSON.h	50;"	d
+cJSON_True	cJSON.h	41;"	d
+cJSON_Version	cJSON.c	/^CJSON_PUBLIC(const char*) cJSON_Version(void)$/;"	f
+cJSON__h	cJSON.h	24;"	d
+cJSON_bool	cJSON.h	/^typedef int cJSON_bool;$/;"	t
+cJSON_free	cJSON.c	/^CJSON_PUBLIC(void) cJSON_free(void *object)$/;"	f
+cJSON_malloc	cJSON.c	/^CJSON_PUBLIC(void *) cJSON_malloc(size_t size)$/;"	f
+cJSON_strdup	cJSON.c	/^static unsigned char* cJSON_strdup(const unsigned char* string, const internal_hooks * const hooks)$/;"	f	file:
+ca_log_lock	log.cpp	/^        pthread_mutex_t ca_log_lock=PTHREAD_MUTEX_INITIALIZER;$/;"	m	namespace:lizongxin::debug	file:
+can_access_at_index	cJSON.c	217;"	d	file:
+can_read	cJSON.c	214;"	d	file:
+cannot_access_at_index	cJSON.c	218;"	d	file:
+cannot_read	cJSON.c	215;"	d	file:
+case_insensitive_strcmp	cJSON.c	/^static int case_insensitive_strcmp(const unsigned char *string1, const unsigned char *string2)$/;"	f	file:
+catalog	mysql.h	/^  char *catalog;	      \/* Catalog for table *\/$/;"	m	struct:st_mysql_field
+catalog_length	mysql.h	/^  unsigned int catalog_length;$/;"	m	struct:st_mysql_field
+character_set	mysql.h	/^typedef struct character_set$/;"	s
+charset	mysql.h	/^  struct charset_info_st *charset;$/;"	m	struct:st_mysql	typeref:struct:st_mysql::charset_info_st
+charset_dir	mysql.h	/^  char *my_cnf_file,*my_cnf_group, *charset_dir, *charset_name;$/;"	m	struct:st_mysql_options
+charset_name	mysql.h	/^  char *my_cnf_file,*my_cnf_group, *charset_dir, *charset_name;$/;"	m	struct:st_mysql_options
+charsetnr	mysql.h	/^  unsigned int charsetnr;     \/* Character set *\/$/;"	m	struct:st_mysql_field
+check_type	json.cpp	/^void Json::check_type(const JsonType& t) const$/;"	f	class:Json
+child	cJSON.h	/^    struct cJSON *child;$/;"	m	struct:cJSON	typeref:struct:cJSON::cJSON
+cjson_min	cJSON.c	1020;"	d	file:
+client_flag	mysql.h	/^  unsigned long client_flag,server_capabilities;$/;"	m	struct:st_mysql
+client_flag	mysql.h	/^  unsigned long client_flag;$/;"	m	struct:st_mysql_options
+client_ip	mysql.h	/^  char *client_ip;$/;"	m	struct:st_mysql_options
+cmd_status	mysql.h	/^  int cmd_status;$/;"	m	struct:st_mysql_manager
+comment	mysql.h	/^  const char        *comment;   \/* comment                           *\/$/;"	m	struct:character_set
+common	common.cpp	/^    namespace common$/;"	n	namespace:lizongxin	file:
+common	common.h	/^    namespace common$/;"	n	namespace:lizongxin
+compress	mysql.h	/^  my_bool compress,named_pipe;$/;"	m	struct:st_mysql_options
+configure_file	configure_file.cpp	/^  configure_file::configure_file(string filename)$/;"	f	class:lizongxin::configure_file
+configure_file	configure_file.h	/^    class configure_file$/;"	c	namespace:lizongxin
+connect_timeout	mysql.h	/^  unsigned int connect_timeout, read_timeout, write_timeout;$/;"	m	struct:st_mysql_options
+connector_fd	mysql.h	/^  unsigned char	*connector_fd;		\/* ConnectorFd for SSL *\/$/;"	m	struct:st_mysql
+content	cJSON.c	/^    const unsigned char *content;$/;"	m	struct:__anon2	file:
+convert	convert.h	/^    class convert$/;"	c	namespace:lizongxin
+convert_encoding	convert.cpp	/^    string convert::convert_encoding(const string& input, char* from_encoding, char* to_encoding)$/;"	f	class:lizongxin::convert
+create_reference	cJSON.c	/^static cJSON *create_reference(const cJSON *item, const internal_hooks * const hooks)$/;"	f	file:
+csname	mysql.h	/^  const char        *csname;    \/* collation name                    *\/$/;"	m	struct:character_set
+cur_sql_count	common.cpp	/^        unsigned short Common::cur_sql_count = 0;$/;"	m	class:lizongxin::common::Common	file:
+cur_sql_count	common.h	/^            static unsigned short cur_sql_count;$/;"	m	class:lizongxin::common::Common
+current_field	mysql.h	/^  unsigned int	field_count, current_field;$/;"	m	struct:st_mysql_res
+current_row	mysql.h	/^  MYSQL_ROW	current_row;		\/* buffer to current row *\/$/;"	m	struct:st_mysql_res
+d1	handlemessage.h	/^        double d1;$/;"	m	class:lizongxin::HandleMessage
+data	mysql.h	/^  MYSQL_DATA	*data;$/;"	m	struct:st_mysql_res
+data	mysql.h	/^  MYSQL_ROW data;$/;"	m	struct:st_mysql_rows
+data	mysql.h	/^  MYSQL_ROWS *data;$/;"	m	struct:st_mysql_data
+data_	tcp_session.h	/^			char* data_;$/;"	m	class:lizongxin::tcp::session
+data_cursor	mysql.h	/^  MYSQL_ROWS	*data_cursor;$/;"	m	struct:st_mysql_res
+data_cursor	mysql.h	/^  MYSQL_ROWS     *data_cursor;         \/* current row in cached result *\/$/;"	m	struct:st_mysql_stmt
+db	mysql.h	/^  char          *info, *db;$/;"	m	struct:st_mysql
+db	mysql.h	/^  char *db;                   \/* Database for table *\/$/;"	m	struct:st_mysql_field
+db	mysql.h	/^  char *host,*user,*password,*unix_socket,*db;$/;"	m	struct:st_mysql_options
+db_length	mysql.h	/^  unsigned int db_length;$/;"	m	struct:st_mysql_field
+deBase64	convert.cpp	/^    int convert::deBase64(string src, char* outbuf)$/;"	f	class:lizongxin::convert
+deBase64	convert.cpp	/^    string convert::deBase64(string src)$/;"	f	class:lizongxin::convert
+deallocate	cJSON.c	/^    void (*deallocate)(void *pointer);$/;"	m	struct:internal_hooks	file:
+debug	log.cpp	/^    namespace debug$/;"	n	namespace:lizongxin	file:
+debug	log.h	/^    namespace debug$/;"	n	namespace:lizongxin
+decimals	mysql.h	/^  unsigned int decimals;      \/* Number of decimals in field *\/$/;"	m	struct:st_mysql_field
+def	mysql.h	/^  char *def;                  \/* Default value (set by mysql_list_fields) *\/$/;"	m	struct:st_mysql_field
+def_length	mysql.h	/^  unsigned int def_length;$/;"	m	struct:st_mysql_field
+depth	cJSON.c	/^    size_t depth; \/* How deeply nested (in arrays\/objects) is the input at the current offset. *\/$/;"	m	struct:__anon2	file:
+depth	cJSON.c	/^    size_t depth; \/* current nesting depth (for formatted printing) *\/$/;"	m	struct:__anon3	file:
+dir	mysql.h	/^  const char        *dir;       \/* character set directory           *\/$/;"	m	struct:character_set
+dumpmsg_to_file	log.cpp	/^        int dumpmsg_to_file(const char *module_name, const char *proc_name, const char *filename,$/;"	f	namespace:lizongxin::debug
+eims	global.cpp	/^namespace eims$/;"	n	file:
+eims	global.h	/^namespace eims$/;"	n
+embedded_info	mysql.h	/^  struct embedded_query_result *embedded_info;$/;"	m	struct:st_mysql_data	typeref:struct:st_mysql_data::embedded_query_result
+enBase64	convert.cpp	/^    string convert::enBase64(const char* inbuf, size_t inbufLen)$/;"	f	class:lizongxin::convert
+enBase64	convert.cpp	/^    string convert::enBase64(const string &inbuf)$/;"	f	class:lizongxin::convert
+ensure	cJSON.c	/^static unsigned char* ensure(printbuffer * const p, size_t needed)$/;"	f	file:
+enum_mysql_stmt_state	mysql.h	/^enum enum_mysql_stmt_state$/;"	g
+enum_stmt_attr_type	mysql.h	/^enum enum_stmt_attr_type$/;"	g
+eof	mysql.h	/^  my_bool	eof;			\/* Used by mysql_fetch_row *\/$/;"	m	struct:st_mysql_res
+eof	mysql.h	/^  my_bool eof;$/;"	m	struct:st_mysql_manager
+error	cJSON.c	/^} error;$/;"	t	typeref:struct:__anon1	file:
+error	mysql.h	/^  my_bool       *error;$/;"	m	struct:st_mysql_bind
+error_value	mysql.h	/^  my_bool       error_value;      \/* used if error is 0 *\/$/;"	m	struct:st_mysql_bind
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_bind
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_data
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_field
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_manager
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_options
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_parameters
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_res
+extension	mysql.h	/^  void *extension;$/;"	m	struct:st_mysql_stmt
+extra_info	mysql.h	/^  my_ulonglong extra_info;		\/* Not used *\/$/;"	m	struct:st_mysql
+false	cJSON.c	47;"	d	file:
+fetch_lengths	mysql.h	/^  void (*fetch_lengths)(unsigned long *to, $/;"	m	struct:st_mysql_methods
+fetch_result	mysql.h	/^  void (*fetch_result)(struct st_mysql_bind *, MYSQL_FIELD *,$/;"	m	struct:st_mysql_bind
+field_alloc	mysql.h	/^  MEM_ROOT	field_alloc;$/;"	m	struct:st_mysql
+field_alloc	mysql.h	/^  MEM_ROOT	field_alloc;$/;"	m	struct:st_mysql_res
+field_count	mysql.h	/^  unsigned int	field_count, current_field;$/;"	m	struct:st_mysql_res
+field_count	mysql.h	/^  unsigned int	field_count;$/;"	m	struct:st_mysql
+field_count	mysql.h	/^  unsigned int   field_count;          \/* number of columns in result set *\/$/;"	m	struct:st_mysql_stmt
+fields	mysql.h	/^  MYSQL_FIELD	*fields;$/;"	m	struct:st_mysql
+fields	mysql.h	/^  MYSQL_FIELD	*fields;$/;"	m	struct:st_mysql_res
+fields	mysql.h	/^  MYSQL_FIELD    *fields;              \/* result set metadata *\/$/;"	m	struct:st_mysql_stmt
+fields	mysql.h	/^  unsigned int fields;$/;"	m	struct:st_mysql_data
+flags	mysql.h	/^  unsigned int flags;         \/* Div flags *\/$/;"	m	struct:st_mysql_field
+flags	mysql.h	/^  unsigned long  flags;                \/* i.e. type of cursor to open *\/$/;"	m	struct:st_mysql_stmt
+flush_use_result	mysql.h	/^  void (*flush_use_result)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+format	cJSON.c	/^    cJSON_bool format; \/* is this print a formatted print *\/$/;"	m	struct:__anon3	file:
+free_embedded_thd	mysql.h	/^  void (*free_embedded_thd)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+free_fn	cJSON.h	/^      void (*free_fn)(void *ptr);$/;"	m	struct:cJSON_Hooks
+free_me	mysql.h	/^  my_bool	free_me;		\/* If free in mysql_close *\/$/;"	m	struct:st_mysql
+free_me	mysql.h	/^  my_bool free_me;$/;"	m	struct:st_mysql_manager
+getInstance	mysqllib.cpp	/^mysqllib * mysqllib::getInstance()$/;"	f	class:mysqllib
+get_array_item	cJSON.c	/^static cJSON* get_array_item(const cJSON *array, size_t index)$/;"	f	file:
+get_decimal_point	cJSON.c	/^static unsigned char get_decimal_point(void)$/;"	f	file:
+get_io_service	tcp_session_pool.cpp	/^		boost::asio::io_service& sessionpool::get_io_service()$/;"	f	class:lizongxin::tcp::sessionpool
+get_object_item	cJSON.c	/^static cJSON *get_object_item(const cJSON * const object, const char * const name, const cJSON_bool case_sensitive)$/;"	f	file:
+get_state	tcp_server.h	/^			bool get_state(){ return m_ok_; };$/;"	f	class:lizongxin::tcp::server
+global	global.cpp	/^namespace global$/;"	n	namespace:eims	file:
+global	global.h	/^namespace global$/;"	n	namespace:eims
+global_error	cJSON.c	/^static error global_error = { NULL, 0 };$/;"	v	file:
+global_hooks	cJSON.c	/^static internal_hooks global_hooks = { malloc, free, realloc };$/;"	v	file:
+handle	mysql.h	/^  MYSQL		*handle;		\/* for unbuffered reads *\/$/;"	m	struct:st_mysql_res
+handle_accept	tcp_server.cpp	/^		void server::handle_accept(const boost::system::error_code& e)$/;"	f	class:lizongxin::tcp::server
+handle_message	handlemessage.cpp	/^    char *HandleMessage::handle_message(char* input, size_t len, size_t* result_len, string ip)$/;"	f	class:lizongxin::HandleMessage
+handle_read_first	tcp_session.cpp	/^		void session::handle_read_first(const boost::system::error_code& error, size_t bytes_transferred)$/;"	f	class:lizongxin::tcp::session
+handle_read_second	tcp_session.cpp	/^		void session::handle_read_second(const boost::system::error_code& error, size_t bytes_transferred)$/;"	f	class:lizongxin::tcp::session
+handle_stop	tcp_server.cpp	/^		void server::handle_stop()$/;"	f	class:lizongxin::tcp::server
+handle_write	tcp_session.cpp	/^		void session::handle_write(const boost::system::error_code& error)$/;"	f	class:lizongxin::tcp::session
+handle_write_second	tcp_session.cpp	/^		void session::handle_write_second(const boost::system::error_code& error, size_t bytes_transferred)$/;"	f	class:lizongxin::tcp::session
+hm	tcp_session.h	/^			HandleMessage hm;$/;"	m	class:lizongxin::tcp::session
+hooks	cJSON.c	/^    internal_hooks hooks;$/;"	m	struct:__anon2	file:
+hooks	cJSON.c	/^    internal_hooks hooks;$/;"	m	struct:__anon3	file:
+hooks	cJSON.h	/^CJSON_PUBLIC(void) cJSON_InitHooks(cJSON_Hooks* hooks);$/;"	v
+host	mysql.h	/^  char		*host,*user,*passwd,*unix_socket,*server_version,*host_info;$/;"	m	struct:st_mysql
+host	mysql.h	/^  char *host, *user, *passwd;$/;"	m	struct:st_mysql_manager
+host	mysql.h	/^  char *host,*user,*password,*unix_socket,*db;$/;"	m	struct:st_mysql_options
+host_info	mysql.h	/^  char		*host,*user,*passwd,*unix_socket,*server_version,*host_info;$/;"	m	struct:st_mysql
+info	mysql.h	/^  char          *info, *db;$/;"	m	struct:st_mysql
+info_buffer	mysql.h	/^  char *info_buffer;$/;"	m	struct:st_mysql
+init_commands	mysql.h	/^  struct st_dynamic_array *init_commands;$/;"	m	struct:st_mysql_options	typeref:struct:st_mysql_options::st_dynamic_array
+initial	server_manager.cpp	/^void server_manager::initial()$/;"	f	class:lizongxin::manager::server_manager
+insert	mysqllib.cpp	/^int mysqllib::insert(char *sql)$/;"	f	class:mysqllib
+insert_id	mysql.h	/^  my_ulonglong   insert_id;            \/* copy of mysql->insert_id *\/$/;"	m	struct:st_mysql_stmt
+insert_id	mysql.h	/^  my_ulonglong insert_id;		\/* id if insert on table with NEXTNR *\/$/;"	m	struct:st_mysql
+instance	mysqllib.cpp	/^mysqllib * mysqllib::instance = new mysqllib;$/;"	m	class:mysqllib	file:
+instance	mysqllib.h	/^		static mysqllib*instance;$/;"	m	class:mysqllib
+int23	prehandle.c	/^typedef int int23;$/;"	t	file:
+internal_hooks	cJSON.c	/^typedef struct internal_hooks$/;"	s	file:
+internal_hooks	cJSON.c	/^} internal_hooks;$/;"	t	typeref:struct:internal_hooks	file:
+io_service_ptr	tcp_session_pool.h	/^			typedef boost::shared_ptr<boost::asio::io_service> io_service_ptr;$/;"	t	class:lizongxin::tcp::sessionpool
+is_null	mysql.h	/^  my_bool       *is_null;	  \/* Pointer to null indicator *\/$/;"	m	struct:st_mysql_bind
+is_null_value	mysql.h	/^  my_bool	is_null_value;    \/* Used if is_null is 0 *\/$/;"	m	struct:st_mysql_bind
+is_unsigned	mysql.h	/^  my_bool       is_unsigned;      \/* set if integer type is unsigned *\/$/;"	m	struct:st_mysql_bind
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsArray(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsBool(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsFalse(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsInvalid(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsNull(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsNumber(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsObject(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsRaw(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsString(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(cJSON_bool) cJSON_IsTrue(const cJSON * const item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(char *) cJSON_Print(const cJSON *item);$/;"	v
+item	cJSON.h	/^CJSON_PUBLIC(char *) cJSON_PrintUnformatted(const cJSON *item);$/;"	v
+json	cJSON.c	/^    const unsigned char *json;$/;"	m	struct:__anon1	file:
+json	handlemessage.h	/^        Json json;$/;"	m	class:lizongxin::HandleMessage
+key	configure_file.h	/^                string key;$/;"	m	struct:lizongxin::configure_file::Node
+last_errno	mysql.h	/^  int last_errno;$/;"	m	struct:st_mysql_manager
+last_errno	mysql.h	/^  unsigned int	 last_errno;	       \/* error code *\/$/;"	m	struct:st_mysql_stmt
+last_error	mysql.h	/^  char		 last_error[MYSQL_ERRMSG_SIZE]; \/* error message *\/$/;"	m	struct:st_mysql_stmt
+last_error	mysql.h	/^  char last_error[MAX_MYSQL_MANAGER_ERR];$/;"	m	struct:st_mysql_manager
+last_used_con	mysql.h	/^  struct st_mysql* last_used_con;$/;"	m	struct:st_mysql	typeref:struct:st_mysql::st_mysql
+last_used_slave	mysql.h	/^  struct st_mysql* last_used_slave; \/* needed for round-robin slave pick *\/$/;"	m	struct:st_mysql	typeref:struct:st_mysql::st_mysql
+length	cJSON.c	/^    size_t length;$/;"	m	struct:__anon2	file:
+length	cJSON.c	/^    size_t length;$/;"	m	struct:__anon3	file:
+length	mysql.h	/^  unsigned long	*length;          \/* output length pointer *\/$/;"	m	struct:st_mysql_bind
+length	mysql.h	/^  unsigned long length;       \/* Width of column (create length) *\/$/;"	m	struct:st_mysql_field
+length	mysql.h	/^  unsigned long length;$/;"	m	struct:st_mysql_rows
+length_value	mysql.h	/^  unsigned long	length_value;     \/* Used if length is 0 *\/$/;"	m	struct:st_mysql_bind
+lengths	mysql.h	/^  unsigned long *lengths;		\/* column lengths of current row *\/$/;"	m	struct:st_mysql_res
+list	mysql.h	/^  LIST           list;                 \/* list to keep track of all stmts *\/$/;"	m	struct:st_mysql_stmt
+list_fields	mysql.h	/^  MYSQL_FIELD * (*list_fields)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+lizongxin	common.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	common.h	/^namespace lizongxin$/;"	n
+lizongxin	configure_file.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	configure_file.h	/^namespace lizongxin$/;"	n
+lizongxin	convert.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	convert.h	/^namespace lizongxin$/;"	n
+lizongxin	handlemessage.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	handlemessage.h	/^namespace lizongxin$/;"	n
+lizongxin	log.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	log.h	/^namespace lizongxin$/;"	n
+lizongxin	server_manager.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	server_manager.h	/^namespace lizongxin$/;"	n
+lizongxin	tcp_server.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	tcp_server.h	/^namespace lizongxin$/;"	n
+lizongxin	tcp_session.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	tcp_session.h	/^namespace lizongxin$/;"	n
+lizongxin	tcp_session_pool.cpp	/^namespace lizongxin$/;"	n	file:
+lizongxin	tcp_session_pool.h	/^namespace lizongxin$/;"	n
+loadconfig	common.cpp	/^        void Common::loadconfig()$/;"	f	class:lizongxin::common::Common
+local_infile_end	mysql.h	/^  void (*local_infile_end)(void *);$/;"	m	struct:st_mysql_options
+local_infile_error	mysql.h	/^  int (*local_infile_error)(void *, char *, unsigned int);$/;"	m	struct:st_mysql_options
+local_infile_init	mysql.h	/^  int (*local_infile_init)(void **, const char *, void *);$/;"	m	struct:st_mysql_options
+local_infile_read	mysql.h	/^  int (*local_infile_read)(void *, char *, unsigned int);$/;"	m	struct:st_mysql_options
+local_infile_userdata	mysql.h	/^  void *local_infile_userdata;$/;"	m	struct:st_mysql_options
+logger	global.cpp	/^	eims::debug::Logger* Global::logger = eims::debug::Logger::get_singleton();$/;"	m	class:eims::global::Global	file:
+logger	global.h	/^			static Logger* logger;$/;"	m	class:eims::global::Global
+long_data_used	mysql.h	/^  my_bool	long_data_used;	  \/* If used with mysql_send_long_data *\/$/;"	m	struct:st_mysql_bind
+m_acceptor_	tcp_server.h	/^			boost::asio::ip::tcp::acceptor m_acceptor_;$/;"	m	class:lizongxin::tcp::server
+m_current_accept_session_	tcp_server.h	/^			session_ptr m_current_accept_session_;$/;"	m	class:lizongxin::tcp::server
+m_filename	configure_file.h	/^            string m_filename;$/;"	m	class:lizongxin::configure_file
+m_io_service_pool_	tcp_server.h	/^			sessionpool m_io_service_pool_;$/;"	m	class:lizongxin::tcp::server
+m_io_services	tcp_session_pool.h	/^			std::vector<io_service_ptr> m_io_services;$/;"	m	class:lizongxin::tcp::sessionpool
+m_new_session_	tcp_server.h	/^			session* m_new_session_;$/;"	m	class:lizongxin::tcp::server
+m_next_io_service	tcp_session_pool.h	/^			std::size_t m_next_io_service;$/;"	m	class:lizongxin::tcp::sessionpool
+m_ok_	tcp_server.h	/^			bool m_ok_;$/;"	m	class:lizongxin::tcp::server
+m_p_tcp_svr_	server_manager.h	/^				lizongxin::tcp::server* m_p_tcp_svr_;$/;"	m	class:lizongxin::manager::server_manager
+m_signals_	tcp_server.h	/^			boost::asio::signal_set m_signals_;$/;"	m	class:lizongxin::tcp::server
+m_work	tcp_session_pool.h	/^			std::vector<work_ptr> m_work;$/;"	m	class:lizongxin::tcp::sessionpool
+main	Makefile	/^main=.\/serverasio$/;"	m
+main	etmode.cpp	/^int main()$/;"	f
+main	ltdefault.cpp	/^int main()$/;"	f
+main	ltmode.cpp	/^int main()$/;"	f
+main	ltmodetoet.cpp	/^int main()$/;"	f
+main	main.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	prehandle.c	/^int main(int argc, char *argv[])$/;"	f
+main	testjson.cpp	/^int main(int argc, char *argv[])$/;"	f
+main	testthread.cpp	/^int main(int argc, char *argv[])$/;"	f
+make_path	log.cpp	/^        int make_path(char *path, const char *module_name, const char *proc_name)$/;"	f	namespace:lizongxin::debug
+malloc_fn	cJSON.h	/^      void *(*malloc_fn)(size_t sz);$/;"	m	struct:cJSON_Hooks
+manager	server_manager.cpp	/^namespace manager$/;"	n	namespace:lizongxin	file:
+manager	server_manager.h	/^	namespace manager$/;"	n	namespace:lizongxin
+master	mysql.h	/^  struct st_mysql* master, *next_slave;$/;"	m	struct:st_mysql	typeref:struct:st_mysql::st_mysql
+max_allowed_packet	mysql.h	/^  unsigned long max_allowed_packet;$/;"	m	struct:st_mysql_options
+max_allowed_packet	mysql.h	376;"	d
+max_length	mysql.h	/^  unsigned long max_length;   \/* Max width for selected set *\/$/;"	m	struct:st_mysql_field
+mbmaxlen	mysql.h	/^  unsigned int      mbmaxlen;   \/* max. length for multibyte strings *\/$/;"	m	struct:character_set
+mbminlen	mysql.h	/^  unsigned int      mbminlen;   \/* min. length for multibyte strings *\/$/;"	m	struct:character_set
+mem_root	mysql.h	/^  MEM_ROOT       mem_root;             \/* root allocations *\/$/;"	m	struct:st_mysql_stmt
+methods	mysql.h	/^  const struct st_mysql_methods *methods;$/;"	m	struct:st_mysql	typeref:struct:st_mysql::st_mysql_methods
+methods	mysql.h	/^  const struct st_mysql_methods *methods;$/;"	m	struct:st_mysql_res	typeref:struct:st_mysql_res::st_mysql_methods
+methods_to_use	mysql.h	/^  enum mysql_option methods_to_use;$/;"	m	struct:st_mysql_options	typeref:enum:st_mysql_options::mysql_option
+my_bool	mysql.h	/^typedef char my_bool;$/;"	t
+my_cnf_file	mysql.h	/^  char *my_cnf_file,*my_cnf_group, *charset_dir, *charset_name;$/;"	m	struct:st_mysql_options
+my_cnf_group	mysql.h	/^  char *my_cnf_file,*my_cnf_group, *charset_dir, *charset_name;$/;"	m	struct:st_mysql_options
+my_socket	mysql.h	/^typedef int my_socket;$/;"	t
+my_socket	mysql.h	67;"	d
+my_ulonglong	mysql.h	/^typedef unsigned __int64 my_ulonglong;$/;"	t
+my_ulonglong	mysql.h	/^typedef unsigned long long my_ulonglong;$/;"	t
+my_ulonglong	mysql.h	/^typedef unsigned long my_ulonglong;$/;"	t
+mysql	mysql.h	/^  MYSQL          *mysql;               \/* connection handle *\/$/;"	m	struct:st_mysql_stmt
+mysql	mysqllib.h	/^		MYSQL*mysql;$/;"	m	class:mysqllib
+mysql_library_end	mysql.h	398;"	d
+mysql_library_init	mysql.h	397;"	d
+mysql_option	mysql.h	/^enum mysql_option $/;"	g
+mysql_protocol_type	mysql.h	/^enum mysql_protocol_type $/;"	g
+mysql_reload	mysql.h	841;"	d
+mysql_reload	mysql.h	848;"	d
+mysql_rpl_type	mysql.h	/^enum mysql_rpl_type $/;"	g
+mysql_status	mysql.h	/^enum mysql_status $/;"	g
+mysqllib	mysqllib.cpp	/^mysqllib::mysqllib()$/;"	f	class:mysqllib
+mysqllib	mysqllib.cpp	/^mysqllib::mysqllib(mysqllib&)$/;"	f	class:mysqllib
+mysqllib	mysqllib.h	/^class mysqllib$/;"	c
+mysqllib_error	mysqllib.cpp	/^const char * mysqllib::mysqllib_error()$/;"	f	class:mysqllib
+mysqltool	handlemessage.h	/^        mysqllib*mysqltool;$/;"	m	class:lizongxin::HandleMessage
+name	mysql.h	/^  char *name;                 \/* Name of column *\/$/;"	m	struct:st_mysql_field
+name	mysql.h	/^  const char        *name;      \/* character set name                *\/$/;"	m	struct:character_set
+name_length	mysql.h	/^  unsigned int name_length;$/;"	m	struct:st_mysql_field
+named_pipe	mysql.h	/^  my_bool compress,named_pipe;$/;"	m	struct:st_mysql_options
+net	mysql.h	/^  NET		net;			\/* Communication parameters *\/$/;"	m	struct:st_mysql
+net	mysql.h	/^  NET net;$/;"	m	struct:st_mysql_manager
+net_buf	mysql.h	/^  char *net_buf, *net_buf_pos, *net_data_end;$/;"	m	struct:st_mysql_manager
+net_buf_pos	mysql.h	/^  char *net_buf, *net_buf_pos, *net_data_end;$/;"	m	struct:st_mysql_manager
+net_buf_size	mysql.h	/^  int net_buf_size;$/;"	m	struct:st_mysql_manager
+net_buffer_length	mysql.h	377;"	d
+net_data_end	mysql.h	/^  char *net_buf, *net_buf_pos, *net_data_end;$/;"	m	struct:st_mysql_manager
+next	cJSON.h	/^    struct cJSON *next;$/;"	m	struct:cJSON	typeref:struct:cJSON::cJSON
+next	mysql.h	/^  struct st_mysql_rows *next;		\/* list of rows *\/$/;"	m	struct:st_mysql_rows	typeref:struct:st_mysql_rows::st_mysql_rows
+next_result	mysql.h	/^  my_bool (*next_result)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+next_slave	mysql.h	/^  struct st_mysql* master, *next_slave;$/;"	m	struct:st_mysql	typeref:struct:st_mysql::
+no_master_reads	mysql.h	/^  my_bool no_master_reads;$/;"	m	struct:st_mysql_options
+noalloc	cJSON.c	/^    cJSON_bool noalloc;$/;"	m	struct:__anon3	file:
+number	mysql.h	/^  unsigned int      number;     \/* character set number              *\/$/;"	m	struct:character_set
+offset	cJSON.c	/^    size_t offset;$/;"	m	struct:__anon2	file:
+offset	cJSON.c	/^    size_t offset;$/;"	m	struct:__anon3	file:
+offset	mysql.h	/^  unsigned long offset;           \/* offset position for char\/binary fetch *\/$/;"	m	struct:st_mysql_bind
+operator <<	json.h	/^    friend ostream& operator<< (ostream& os, const Json& v)$/;"	f	class:Json
+operator []	json.cpp	/^Json& Json::operator[](const string& key)$/;"	f	class:Json
+operator []	json.cpp	/^Json& Json::operator[](size_t i)$/;"	f	class:Json
+operator []	json.cpp	/^const Json& Json::operator[](const string& key) const$/;"	f	class:Json
+operator []	json.cpp	/^const Json& Json::operator[](size_t i) const$/;"	f	class:Json
+options	mysql.h	/^  struct st_mysql_options options;$/;"	m	struct:st_mysql	typeref:struct:st_mysql::st_mysql_options
+org_name	mysql.h	/^  char *org_name;             \/* Original column name, if an alias *\/$/;"	m	struct:st_mysql_field
+org_name_length	mysql.h	/^  unsigned int org_name_length;$/;"	m	struct:st_mysql_field
+org_table	mysql.h	/^  char *org_table;            \/* Org table name, if table was an alias *\/$/;"	m	struct:st_mysql_field
+org_table_length	mysql.h	/^  unsigned int org_table_length;$/;"	m	struct:st_mysql_field
+out_put_file	log.cpp	/^        int out_put_file(char *path, char *buf)$/;"	f	namespace:lizongxin::debug
+p_max_allowed_packet	mysql.h	/^  unsigned long *p_max_allowed_packet;$/;"	m	struct:st_mysql_parameters
+p_net_buffer_length	mysql.h	/^  unsigned long *p_net_buffer_length;$/;"	m	struct:st_mysql_parameters
+pack_length	mysql.h	/^  unsigned int  pack_length;	  \/* Internal length for packed data *\/$/;"	m	struct:st_mysql_bind
+packet_length	mysql.h	/^  unsigned long packet_length;$/;"	m	struct:st_mysql
+param_count	mysql.h	/^  unsigned int   param_count;          \/* input parameter count *\/$/;"	m	struct:st_mysql_stmt
+param_number	mysql.h	/^  unsigned int	param_number;	  \/* For null count and error messages *\/$/;"	m	struct:st_mysql_bind
+params	mysql.h	/^  MYSQL_BIND     *params;              \/* input parameters *\/$/;"	m	struct:st_mysql_stmt
+parse	json.cpp	/^Json& Json::parse(const string& in)$/;"	f	class:Json
+parse_array	cJSON.c	/^static cJSON_bool parse_array(cJSON * const item, parse_buffer * const input_buffer)$/;"	f	file:
+parse_buffer	cJSON.c	/^} parse_buffer;$/;"	t	typeref:struct:__anon2	file:
+parse_hex4	cJSON.c	/^static unsigned parse_hex4(const unsigned char * const input)$/;"	f	file:
+parse_number	cJSON.c	/^static cJSON_bool parse_number(cJSON * const item, parse_buffer * const input_buffer)$/;"	f	file:
+parse_object	cJSON.c	/^static cJSON_bool parse_object(cJSON * const item, parse_buffer * const input_buffer)$/;"	f	file:
+parse_string	cJSON.c	/^static cJSON_bool parse_string(cJSON * const item, parse_buffer * const input_buffer)$/;"	f	file:
+parse_value	cJSON.c	/^static cJSON_bool parse_value(cJSON * const item, parse_buffer * const input_buffer)$/;"	f	file:
+passwd	mysql.h	/^  char		*host,*user,*passwd,*unix_socket,*server_version,*host_info;$/;"	m	struct:st_mysql
+passwd	mysql.h	/^  char *host, *user, *passwd;$/;"	m	struct:st_mysql_manager
+password	mysql.h	/^  char *host,*user,*password,*unix_socket,*db;$/;"	m	struct:st_mysql_options
+port	mysql.h	/^  unsigned int	port;$/;"	m	struct:st_mysql
+port	mysql.h	/^  unsigned int port, protocol;$/;"	m	struct:st_mysql_options
+port	mysql.h	/^  unsigned int port;$/;"	m	struct:st_mysql_manager
+position	cJSON.c	/^    size_t position;$/;"	m	struct:__anon1	file:
+prefetch_rows	mysql.h	/^  unsigned long  prefetch_rows;        \/* number of rows per one COM_FETCH *\/$/;"	m	struct:st_mysql_stmt
+prev	cJSON.h	/^    struct cJSON *prev;$/;"	m	struct:cJSON	typeref:struct:cJSON::cJSON
+print	cJSON.c	/^static unsigned char *print(const cJSON * const item, cJSON_bool format, const internal_hooks * const hooks)$/;"	f	file:
+print_array	cJSON.c	/^static cJSON_bool print_array(const cJSON * const item, printbuffer * const output_buffer)$/;"	f	file:
+print_number	cJSON.c	/^static cJSON_bool print_number(const cJSON * const item, printbuffer * const output_buffer)$/;"	f	file:
+print_object	cJSON.c	/^static cJSON_bool print_object(const cJSON * const item, printbuffer * const output_buffer)$/;"	f	file:
+print_string	cJSON.c	/^static cJSON_bool print_string(const cJSON * const item, printbuffer * const p)$/;"	f	file:
+print_string_ptr	cJSON.c	/^static cJSON_bool print_string_ptr(const unsigned char * const input, printbuffer * const output_buffer)$/;"	f	file:
+print_value	cJSON.c	/^static cJSON_bool print_value(const cJSON * const item, printbuffer * const output_buffer)$/;"	f	file:
+printbuffer	cJSON.c	/^} printbuffer;$/;"	t	typeref:struct:__anon3	file:
+protocol	mysql.h	/^  unsigned int port, protocol;$/;"	m	struct:st_mysql_options
+protocol_version	mysql.h	/^  unsigned int	protocol_version;$/;"	m	struct:st_mysql
+read_binary_rows	mysql.h	/^  int (*read_binary_rows)(MYSQL_STMT *stmt);$/;"	m	struct:st_mysql_methods
+read_change_user_result	mysql.h	/^  int (*read_change_user_result)(MYSQL *mysql, char *buff, const char *passwd);$/;"	m	struct:st_mysql_methods
+read_int	configure_file.cpp	/^    int configure_file::read_int(string key)$/;"	f	class:lizongxin::configure_file
+read_prepare_result	mysql.h	/^  my_bool (*read_prepare_result)(MYSQL *mysql, MYSQL_STMT *stmt);$/;"	m	struct:st_mysql_methods
+read_query_result	mysql.h	/^  my_bool (*read_query_result)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+read_row_func	mysql.h	/^  int            (*read_row_func)(struct st_mysql_stmt *stmt, $/;"	m	struct:st_mysql_stmt
+read_rows	mysql.h	/^  MYSQL_DATA *(*read_rows)(MYSQL *mysql,MYSQL_FIELD *mysql_fields,$/;"	m	struct:st_mysql_methods
+read_rows_from_cursor	mysql.h	/^  int (*read_rows_from_cursor)(MYSQL_STMT *stmt);$/;"	m	struct:st_mysql_methods
+read_statistics	mysql.h	/^  const char *(*read_statistics)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+read_string	configure_file.cpp	/^    string configure_file::read_string(string key)$/;"	f	class:lizongxin::configure_file
+read_timeout	mysql.h	/^  unsigned int connect_timeout, read_timeout, write_timeout;$/;"	m	struct:st_mysql_options
+reallocate	cJSON.c	/^    void *(*reallocate)(void *pointer, size_t size);$/;"	m	struct:internal_hooks	file:
+rec_write	json.cpp	/^void Json::rec_write(ostringstream& O) const$/;"	f	class:Json
+reconnect	mysql.h	/^  my_bool	reconnect;		\/* set to 1 if automatic reconnect *\/$/;"	m	struct:st_mysql
+remote_ip	tcp_session.h	/^			string remote_ip;$/;"	m	class:lizongxin::tcp::session
+replace_item_in_object	cJSON.c	/^static cJSON_bool replace_item_in_object(cJSON *object, const char *string, cJSON *replacement, cJSON_bool case_sensitive)$/;"	f	file:
+report_data_truncation	mysql.h	/^  my_bool report_data_truncation;$/;"	m	struct:st_mysql_options
+result	mysql.h	/^  MYSQL_DATA     result;               \/* cached result set *\/$/;"	m	struct:st_mysql_stmt
+result_data	tcp_session.h	/^			char* result_data;$/;"	m	class:lizongxin::tcp::session
+result_len	tcp_session.h	/^			size_t result_len;$/;"	m	class:lizongxin::tcp::session
+row	mysql.h	/^  MYSQL_ROW	row;			\/* If unbuffered read *\/$/;"	m	struct:st_mysql_res
+row_count	mysql.h	/^  my_ulonglong  row_count;$/;"	m	struct:st_mysql_res
+row_ptr	mysql.h	/^  unsigned char *row_ptr;         \/* for the current data position *\/$/;"	m	struct:st_mysql_bind
+rows	mysql.h	/^  my_ulonglong rows;$/;"	m	struct:st_mysql_data
+rpl_parse	mysql.h	/^  my_bool rpl_parse;$/;"	m	struct:st_mysql_options
+rpl_pivot	mysql.h	/^  my_bool rpl_pivot;$/;"	m	struct:st_mysql
+rpl_probe	mysql.h	/^  my_bool rpl_probe;$/;"	m	struct:st_mysql_options
+run	tcp_server.cpp	/^		void server::run()$/;"	f	class:lizongxin::tcp::server
+run	tcp_session_pool.cpp	/^		void sessionpool::run()$/;"	f	class:lizongxin::tcp::sessionpool
+run_service	server_manager.cpp	/^void server_manager::run_service()$/;"	f	class:lizongxin::manager::server_manager
+s2utfs	convert.cpp	/^    string convert::s2utfs(const string& strSrc)$/;"	f	class:lizongxin::convert
+s2ws	convert.cpp	/^    wstring convert::s2ws(const string& s)$/;"	f	class:lizongxin::convert
+scramble	mysql.h	/^  char	        scramble[SCRAMBLE_LENGTH+1];$/;"	m	struct:st_mysql
+secure_auth	mysql.h	/^  my_bool secure_auth;$/;"	m	struct:st_mysql_options
+select	mysqllib.cpp	/^int mysqllib::select(char *sql)$/;"	f	class:mysqllib
+select	mysqllib.cpp	/^int mysqllib::select(char *sql, char *result_buf)$/;"	f	class:mysqllib
+selectgetfieldname	mysqllib.cpp	/^int mysqllib::selectgetfieldname(char *sql, char *result_buf)$/;"	f	class:mysqllib
+send_types_to_server	mysql.h	/^  my_bool        send_types_to_server;$/;"	m	struct:st_mysql_stmt
+separate_thread	mysql.h	/^  my_bool separate_thread;$/;"	m	struct:st_mysql_options
+server	tcp_server.cpp	/^		server::server(const std::string& address, const std::string& port,std::size_t m_io_service_poolsize)$/;"	f	class:lizongxin::tcp::server
+server	tcp_server.h	/^		class server: private boost::noncopyable$/;"	c	namespace:lizongxin::tcp
+server_capabilities	mysql.h	/^  unsigned long client_flag,server_capabilities;$/;"	m	struct:st_mysql
+server_language	mysql.h	/^  unsigned int  server_language;$/;"	m	struct:st_mysql
+server_manager	server_manager.h	/^				server_manager(){ };$/;"	f	class:lizongxin::manager::server_manager
+server_manager	server_manager.h	/^		class server_manager$/;"	c	namespace:lizongxin::manager
+server_status	mysql.h	/^  unsigned int 	server_status;$/;"	m	struct:st_mysql
+server_status	mysql.h	/^  unsigned int   server_status;$/;"	m	struct:st_mysql_stmt
+server_version	mysql.h	/^  char		*host,*user,*passwd,*unix_socket,*server_version,*host_info;$/;"	m	struct:st_mysql
+session	tcp_session.cpp	/^		session::session(boost::asio::io_service& io_service)$/;"	f	class:lizongxin::tcp::session
+session	tcp_session.h	/^		class session$/;"	c	namespace:lizongxin::tcp
+session_ptr	tcp_server.h	/^		typedef boost::shared_ptr<session> session_ptr;$/;"	t	namespace:lizongxin::tcp
+session_ptr	tcp_session.h	/^		typedef boost::shared_ptr<session> session_ptr;$/;"	t	namespace:lizongxin::tcp
+sessionpool	tcp_session_pool.cpp	/^		sessionpool::sessionpool(std::size_t pool_size)$/;"	f	class:lizongxin::tcp::sessionpool
+sessionpool	tcp_session_pool.h	/^		class sessionpool$/;"	c	namespace:lizongxin::tcp
+shared_memory_base_name	mysql.h	/^  char *shared_memory_base_name;$/;"	m	struct:st_mysql_options
+simple_command	mysql.h	857;"	d
+size	cJSON.h	/^CJSON_PUBLIC(void *) cJSON_malloc(size_t size);$/;"	v
+skip_result	mysql.h	/^  void (*skip_result)(struct st_mysql_bind *, MYSQL_FIELD *,$/;"	m	struct:st_mysql_bind
+socket	tcp_session.cpp	/^		boost::asio::ip::tcp::socket& session::socket()$/;"	f	class:lizongxin::tcp::session
+socket_	tcp_session.h	/^			boost::asio::ip::tcp::socket socket_;$/;"	m	class:lizongxin::tcp::session
+sql_locker	common.cpp	/^        pthread_mutex_t Common::sql_locker;$/;"	m	class:lizongxin::common::Common	file:
+sql_locker	common.h	/^            static pthread_mutex_t sql_locker;$/;"	m	class:lizongxin::common::Common
+sqlstate	mysql.h	/^  char		 sqlstate[SQLSTATE_LENGTH+1];$/;"	m	struct:st_mysql_stmt
+ssl_ca	mysql.h	/^  char *ssl_ca;					\/* PEM CA file *\/$/;"	m	struct:st_mysql_options
+ssl_capath	mysql.h	/^  char *ssl_capath;				\/* PEM directory of CA-s? *\/$/;"	m	struct:st_mysql_options
+ssl_cert	mysql.h	/^  char *ssl_cert;				\/* PEM cert file *\/$/;"	m	struct:st_mysql_options
+ssl_cipher	mysql.h	/^  char *ssl_cipher;				\/* cipher to use *\/$/;"	m	struct:st_mysql_options
+ssl_key	mysql.h	/^  char *ssl_key;				\/* PEM key file *\/$/;"	m	struct:st_mysql_options
+st_mysql	mysql.h	/^typedef struct st_mysql$/;"	s
+st_mysql_bind	mysql.h	/^typedef struct st_mysql_bind$/;"	s
+st_mysql_data	mysql.h	/^typedef struct st_mysql_data {$/;"	s
+st_mysql_field	mysql.h	/^typedef struct st_mysql_field {$/;"	s
+st_mysql_manager	mysql.h	/^typedef struct st_mysql_manager$/;"	s
+st_mysql_methods	mysql.h	/^typedef struct st_mysql_methods$/;"	s
+st_mysql_options	mysql.h	/^struct st_mysql_options {$/;"	s
+st_mysql_parameters	mysql.h	/^typedef struct st_mysql_parameters$/;"	s
+st_mysql_res	mysql.h	/^typedef struct st_mysql_res {$/;"	s
+st_mysql_rows	mysql.h	/^typedef struct st_mysql_rows {$/;"	s
+st_mysql_stmt	mysql.h	/^typedef struct st_mysql_stmt$/;"	s
+start	tcp_session.cpp	/^		void session::start()$/;"	f	class:lizongxin::tcp::session
+start_accept	tcp_server.cpp	/^		void server::start_accept()$/;"	f	class:lizongxin::tcp::server
+state	mysql.h	/^  enum enum_mysql_stmt_state state;    \/* statement state *\/$/;"	m	struct:st_mysql_stmt	typeref:enum:st_mysql_stmt::enum_mysql_stmt_state
+state	mysql.h	/^  unsigned int      state;      \/* character set state               *\/$/;"	m	struct:character_set
+status	mysql.h	/^  enum mysql_status status;$/;"	m	struct:st_mysql	typeref:enum:st_mysql::mysql_status
+stmt_command	mysql.h	860;"	d
+stmt_execute	mysql.h	/^  int (*stmt_execute)(MYSQL_STMT *stmt);$/;"	m	struct:st_mysql_methods
+stmt_id	mysql.h	/^  unsigned long	 stmt_id;	       \/* Id for prepared statement *\/$/;"	m	struct:st_mysql_stmt
+stmts	mysql.h	/^  LIST  *stmts;                     \/* list of all statements *\/$/;"	m	struct:st_mysql
+stop	tcp_server.cpp	/^		void server::stop()$/;"	f	class:lizongxin::tcp::server
+stop	tcp_session_pool.cpp	/^		void sessionpool::stop()$/;"	f	class:lizongxin::tcp::sessionpool
+store_param_func	mysql.h	/^  void (*store_param_func)(NET *net, struct st_mysql_bind *param);$/;"	m	struct:st_mysql_bind
+string	cJSON.h	/^    char *string;$/;"	m	struct:cJSON
+stringify	json.cpp	/^string Json::stringify() const$/;"	f	class:Json
+suffix_object	cJSON.c	/^static void suffix_object(cJSON *prev, cJSON *item)$/;"	f	file:
+table	mysql.h	/^  char *table;                \/* Table of column if column was a field *\/$/;"	m	struct:st_mysql_field
+table_length	mysql.h	/^  unsigned int table_length;$/;"	m	struct:st_mysql_field
+target	Makefile	/^target=$(main)$/;"	m
+task1	testthread.cpp	/^void task1() {   $/;"	f
+task2	testthread.cpp	/^void task2() {   $/;"	f
+tcp	tcp_server.cpp	/^	namespace tcp$/;"	n	namespace:lizongxin	file:
+tcp	tcp_server.h	/^	namespace tcp$/;"	n	namespace:lizongxin
+tcp	tcp_session.cpp	/^	namespace tcp$/;"	n	namespace:lizongxin	file:
+tcp	tcp_session.h	/^	namespace tcp$/;"	n	namespace:lizongxin
+tcp	tcp_session_pool.cpp	/^	namespace tcp$/;"	n	namespace:lizongxin	file:
+tcp	tcp_session_pool.h	/^	namespace tcp$/;"	n	namespace:lizongxin
+tcp_recv	server_manager.cpp	/^void* tcp_recv(void* p)$/;"	f	namespace:lizongxin::manager
+thd	mysql.h	/^  void *thd;$/;"	m	struct:st_mysql
+thread_id	mysql.h	/^  unsigned long thread_id;		\/* Id for connection in server *\/$/;"	m	struct:st_mysql
+true	cJSON.c	46;"	d	file:
+type	cJSON.h	/^    int type;$/;"	m	struct:cJSON
+type	json.cpp	/^JsonType Json::type() const$/;"	f	class:Json
+type	mysql.h	/^  enum enum_field_types type; \/* Type of field. See mysql_com.h for types *\/$/;"	m	struct:st_mysql_field	typeref:enum:st_mysql_field::enum_field_types
+ubigint	consts.h	/^typedef unsigned long long ubigint;$/;"	t
+ubigint	consts.h	/^typedef unsigned long ubigint;$/;"	t
+unbuffered_fetch	mysql.h	/^  int (*unbuffered_fetch)(MYSQL *mysql, char **row);$/;"	m	struct:st_mysql_methods
+unbuffered_fetch_cancelled	mysql.h	/^  my_bool       unbuffered_fetch_cancelled;  $/;"	m	struct:st_mysql_res
+unbuffered_fetch_cancelled	mysql.h	/^  my_bool       unbuffered_fetch_cancelled;  $/;"	m	struct:st_mysql_stmt
+unbuffered_fetch_owner	mysql.h	/^  my_bool *unbuffered_fetch_owner;$/;"	m	struct:st_mysql
+unix_socket	mysql.h	/^  char		*host,*user,*passwd,*unix_socket,*server_version,*host_info;$/;"	m	struct:st_mysql
+unix_socket	mysql.h	/^  char *host,*user,*password,*unix_socket,*db;$/;"	m	struct:st_mysql_options
+update_max_length	mysql.h	/^  my_bool       update_max_length;     $/;"	m	struct:st_mysql_stmt
+update_offset	cJSON.c	/^static void update_offset(printbuffer * const buffer)$/;"	f	file:
+use_result	mysql.h	/^  MYSQL_RES * (*use_result)(MYSQL *mysql);$/;"	m	struct:st_mysql_methods
+use_ssl	mysql.h	/^  my_bool use_ssl;				\/* if to use SSL or not *\/$/;"	m	struct:st_mysql_options
+user	mysql.h	/^  char		*host,*user,*passwd,*unix_socket,*server_version,*host_info;$/;"	m	struct:st_mysql
+user	mysql.h	/^  char *host, *user, *passwd;$/;"	m	struct:st_mysql_manager
+user	mysql.h	/^  char *host,*user,*password,*unix_socket,*db;$/;"	m	struct:st_mysql_options
+utf16_literal_to_utf8	cJSON.c	/^static unsigned char utf16_literal_to_utf8(const unsigned char * const input_pointer, const unsigned char * const input_end, unsigned char **output_pointer)$/;"	f	file:
+utfs2s	convert.cpp	/^    string convert::utfs2s(const string& strutf)$/;"	f	class:lizongxin::convert
+v	configure_file.h	/^            vector<Node> v;$/;"	m	class:lizongxin::configure_file
+v_arr	json.h	/^    shared_ptr<vector<Json>> v_arr;$/;"	m	class:Json
+v_bool	json.h	/^        bool v_bool;$/;"	m	union:Json::__anon4
+v_double	json.h	/^        double v_double;$/;"	m	union:Json::__anon4
+v_int64	json.h	/^        long long v_int64;$/;"	m	union:Json::__anon4
+v_obj	json.h	/^    shared_ptr<map<string, Json>> v_obj;$/;"	m	class:Json
+v_string	json.h	/^    string v_string;$/;"	m	class:Json
+value	configure_file.h	/^                string value;$/;"	m	struct:lizongxin::configure_file::Node
+valuedouble	cJSON.h	/^    double valuedouble;$/;"	m	struct:cJSON
+valueint	cJSON.h	/^    int valueint;$/;"	m	struct:cJSON
+valuestring	cJSON.h	/^    char *valuestring;$/;"	m	struct:cJSON
+warning_count	mysql.h	/^  unsigned int	warning_count;$/;"	m	struct:st_mysql
+webapplication.webapplication_state_delete	webnet.sql	/^CREATE TRIGGER webapplication_state_delete AFTER DELETE ON webapplication FOR EACH ROW$/;"	T
+webapplication.webapplication_state_update	webnet.sql	/^CREATE TRIGGER webapplication_state_update AFTER UPDATE ON webapplication FOR EACH ROW$/;"	T
+work_ptr	tcp_session_pool.h	/^			typedef boost::shared_ptr<boost::asio::io_service::work> work_ptr;$/;"	t	class:lizongxin::tcp::sessionpool
+write_timeout	mysql.h	/^  unsigned int connect_timeout, read_timeout, write_timeout;$/;"	m	struct:st_mysql_options
+ws2s	convert.cpp	/^    string convert::ws2s(const wstring& ws)$/;"	f	class:lizongxin::convert
+~Common	common.cpp	/^        Common::~Common()$/;"	f	class:lizongxin::common::Common
+~HandleMessage	handlemessage.cpp	/^    HandleMessage::~HandleMessage()$/;"	f	class:lizongxin::HandleMessage
+~mysqllib	mysqllib.cpp	/^mysqllib::~mysqllib()$/;"	f	class:mysqllib
+~server	tcp_server.cpp	/^		server::~server()$/;"	f	class:lizongxin::tcp::server
+~server_manager	server_manager.h	/^				~server_manager(){ };$/;"	f	class:lizongxin::manager::server_manager
+~session	tcp_session.cpp	/^		session::~session()$/;"	f	class:lizongxin::tcp::session
+~sessionpool	tcp_session_pool.cpp	/^		sessionpool::~sessionpool()$/;"	f	class:lizongxin::tcp::sessionpool

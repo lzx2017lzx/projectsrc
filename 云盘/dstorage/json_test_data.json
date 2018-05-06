@@ -1,0 +1,93 @@
+{
+    "games":   [
+    {
+             "id":  "group1/M00/00/00/wKgO-lkSwH2AQ8dMAAHlWE6G0tI371.jpg",
+            "kind": 2,
+            "title_m":      "akali.jpg",
+            "title_s":      "zhangyyi3",
+            "descrip":      "2016-08-09 11:39:24",
+            "picurl_m":     "http://192.168.19.27/static/file_png/jpg.png",
+            "url":  "http://192.168.19.27/group1/M00/00/00/wKgO-lkSwH2AQ8dMAAHlWE6G0tI371.jpg",
+            "pv":   1000,
+            "hot":  1
+    }, 
+    {
+        "id":   "group1/M00/00/00/wKgCbFepT0SAOBCtACjizOQy1fU405.rar",
+        "kind": 2,
+        "title_m":      "阶段测试_STL_数据结构.rar",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:34:23",
+        "picurl_m":     "http://192.168.19.27/static/file_png/rar.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepT0SAOBCtACjizOQy1fU405.rar",
+        "pv":   1,
+        "hot":  0
+    }, 
+    {
+        "id":   "group1/M00/00/00/wKgCbFepTp2AUnd1AFRAAvu2TSg259.mp3",
+        "kind": 2,
+        "title_m":      "黄昏.mp3",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:31:35",
+        "picurl_m":     "http://192.168.19.27/static/file_png/mp3.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepTp2AUnd1AFRAAvu2TSg259.mp3",
+        "pv":   5,
+        "hot":  0
+    }, 
+    {
+        "id":   "group1/M00/00/00/wKgCbFepTmGAQvuXAAEYXfRAMkc937.png",
+        "kind": 2,
+        "title_m":      "01-nginx-市场占有率.png",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:30:35",
+        "picurl_m":     "http://192.168.19.27/static/file_png/png.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepTmGAQvuXAAEYXfRAMkc937.png",
+        "pv":   2,
+        "hot":  0
+    }, 
+    {
+        "id":   "group1/M00/00/00/wKgCbFepSKeASREwAAapfc9k6Rc011.jpg",
+        "kind": 2,
+        "title_m":      "小猫5.jpg",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:06:10",
+        "picurl_m":     "http://192.168.19.27/static/file_png/jpg.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepSKeASREwAAapfc9k6Rc011.jpg",
+        "pv":   1,
+        "hot":  0
+    }, 
+    {
+        "id":   "group1/M00/00/00/wKgCbFepSKeAOkV4AAY7zSGunKE058.jpg",
+        "kind": 2,
+        "title_m":      "小猫6.jpg",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:06:09",
+        "picurl_m":     "http://192.168.19.27/static/file_png/jpg.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepSKeAOkV4AAY7zSGunKE058.jpg",
+        "pv":   0,
+        "hot":  0
+    }, 
+    {
+        "id":   "group1/M00/00/00/wKgCbFepSKeARhoLAAXsKfNoK_k046.jpg",
+        "kind": 2,
+        "title_m":      "猫4.jpg",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:06:09",
+        "picurl_m":     "http://192.168.19.27/static/file_png/jpg.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepSKeARhoLAAXsKfNoK_k046.jpg",
+        "pv":   0,
+        "hot":  0
+    },
+    {
+        "id":   "group1/M00/00/00/wKgCbFepSKeAADFfAAbuwxC1bYU619.jpg",
+        "kind": 2,
+        "title_m":      "猫2.jpg",
+        "title_s":      "文件title_s",
+        "descrip":      "2016-08-09 11:06:09",
+        "picurl_m":     "http://192.168.19.27/static/file_png/jpg.png",
+        "url":  "http://192.168.2.108/group1/M00/00/00/wKgCbFepSKeAADFfAAbuwxC1bYU619.jpg",
+        "pv":   0,
+        "hot":  0
+    }
+    ]
+}
+

@@ -1,0 +1,16 @@
+#ifndef CONST_H
+#define CONST_H
+#define LOGINCMD 1
+#define REGISTERCMD 2
+#define CREATEWEBAPPLICATIONCMD 3
+#define HEARTBEAT 4
+#define TESTSYTCMD 5
+#define SYTCMD 6
+
+#define TESTSYNRESPSUC 7
+#define SYNRESPSUC 8
+
+#define RESPONSYN 9
+
+
+#endif // CONST_H

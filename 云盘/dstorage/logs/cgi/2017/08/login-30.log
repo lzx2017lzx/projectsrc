@@ -1,0 +1,14 @@
+===20170830-151220,main[122]=== login:[user=haha1,pwd=123123,type=10]
+===20170830-151220,process_result[42]=== 0 rows returned 
+
+===20170830-151227,main[122]=== login:[user=haha,pwd=123123,type=10]
+===20170830-151227,process_result[42]=== 1 rows returned 
+
+===20170830-151227,process_result[51]=== 0 row is 123123
+===20170830-170928,main[122]=== login:[user=gailun01,pwd=123123,type=10]
+===20170830-170928,process_result[42]=== 0 rows returned 
+
+===20170830-170941,main[122]=== login:[user=gailun,pwd=123123,type=10]
+===20170830-170941,process_result[42]=== 1 rows returned 
+
+===20170830-170941,process_result[51]=== 0 row is 123123

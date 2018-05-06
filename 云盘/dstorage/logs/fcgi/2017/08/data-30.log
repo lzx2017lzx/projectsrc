@@ -1,0 +1,3361 @@
+===20170830-095657,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-095657,main[48]=== fromd = [0], count = 8
+===20170830-095657,main[65]=== json_str =[
+{
+	"games":	["http://192.168.19.27/static/file_png/mp3.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09"
+		}, "http://192.168.19.27/static/file_png/jpg.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23"
+		}, "http://192.168.19.27/static/file_png/jpg.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38"
+		}, "http://192.168.19.27/static/file_png/jpg.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07"
+		}]
+}
+]
+===20170830-095842,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-095842,main[48]=== fromd = [0], count = 8
+===20170830-095842,main[65]=== json_str =[
+{
+	"games":	["http://192.168.19.27/static/file_png/mp3.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09"
+		}, "http://192.168.19.27/static/file_png/jpg.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23"
+		}, "http://192.168.19.27/static/file_png/jpg.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38"
+		}, "http://192.168.19.27/static/file_png/jpg.png", "http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg", 0, 0, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07"
+		}]
+}
+]
+===20170830-095858,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-095858,main[48]=== fromd = [0], count = 8
+===20170830-095858,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-095905,main[41]=== query_string = [cmd=newFile&fromId=4&count=8&user=]
+===20170830-095905,main[48]=== fromd = [4], count = 8
+===20170830-095905,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-095913,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-095913,main[48]=== fromd = [0], count = 8
+===20170830-095913,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-095925,main[41]=== query_string = [cmd=newFile&fromId=4&count=8&user=]
+===20170830-095925,main[48]=== fromd = [4], count = 8
+===20170830-095925,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-095959,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-095959,main[48]=== fromd = [0], count = 8
+===20170830-095959,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100028,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-100028,main[48]=== fromd = [0], count = 8
+===20170830-100028,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100036,main[41]=== query_string = [cmd=newFile&fromId=8&count=8&user=]
+===20170830-100036,main[48]=== fromd = [8], count = 8
+===20170830-100036,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100038,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-100038,main[48]=== fromd = [0], count = 8
+===20170830-100038,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100105,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-100105,main[48]=== fromd = [0], count = 8
+===20170830-100105,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100123,main[41]=== query_string = [cmd=newFile&fromId=8&count=8&user=]
+===20170830-100123,main[48]=== fromd = [8], count = 8
+===20170830-100123,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100125,main[41]=== query_string = [cmd=newFile&fromId=8&count=8&user=]
+===20170830-100125,main[48]=== fromd = [8], count = 8
+===20170830-100125,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100138,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-100138,main[48]=== fromd = [0], count = 8
+===20170830-100138,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100143,main[41]=== query_string = [cmd=newFile&fromId=8&count=8&user=]
+===20170830-100143,main[48]=== fromd = [8], count = 8
+===20170830-100143,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100157,main[41]=== query_string = [cmd=newFile&fromId=8&count=8&user=]
+===20170830-100157,main[48]=== fromd = [8], count = 8
+===20170830-100157,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100301,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-100301,main[48]=== fromd = [0], count = 8
+===20170830-100301,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100310,main[41]=== query_string = [cmd=newFile&fromId=8&count=8&user=]
+===20170830-100310,main[48]=== fromd = [8], count = 8
+===20170830-100310,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"kind":	1,
+			"title_m":	"juhua.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:07",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3e-AX1RZAA1rIuRd3Es560.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-100313,main[41]=== query_string = [cmd=newFile&fromId=9&count=8&user=]
+===20170830-100313,main[48]=== fromd = [9], count = 8
+===20170830-100313,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100320,main[41]=== query_string = [cmd=newFile&fromId=9&count=8&user=]
+===20170830-100320,main[48]=== fromd = [9], count = 8
+===20170830-100320,main[65]=== json_str =[
+{
+	"games":	[]
+}
+]
+===20170830-100521,main[41]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-100521,main[41]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-100523,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-100523,main[48]=== fromd = [0], count = 8
+===20170830-100523,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-101238,main[41]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-101630,main[41]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-101630,main[48]=== fromd = [0], count = 8
+===20170830-101630,main[65]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-105918,main[42]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg]
+===20170830-105918,main[80]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg]
+===20170830-110334,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-110334,main[70]=== fromd = [0], count = 8
+===20170830-110334,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-110335,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-110335,main[70]=== fromd = [0], count = 8
+===20170830-110335,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-110337,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-110337,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-110339,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-110339,main[70]=== fromd = [0], count = 8
+===20170830-110339,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	1,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"pv":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"pv":	0
+		}]
+}
+]
+===20170830-110527,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-110527,main[70]=== fromd = [0], count = 8
+===20170830-110527,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-110529,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-110529,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-110532,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-110532,main[70]=== fromd = [0], count = 8
+===20170830-110532,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-110624,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-110624,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-111303,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-111303,main[70]=== fromd = [0], count = 8
+===20170830-111303,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	3,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-111611,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-111611,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-114525,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-114525,main[70]=== fromd = [0], count = 8
+===20170830-114525,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	4,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-114531,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg]
+===20170830-114531,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg]
+===20170830-114544,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-114544,main[70]=== fromd = [0], count = 8
+===20170830-114544,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	4,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-114546,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-114546,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3]
+===20170830-114558,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-114558,main[70]=== fromd = [0], count = 8
+===20170830-114558,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"kind":	1,
+			"title_m":	"Jellyfish.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-28 17:10:38",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mj3g6AYmI_AAvWFkcZHjA498.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-114651,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-114651,main[70]=== fromd = [0], count = 8
+===20170830-114651,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-114658,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmNSmAHVveAABEZj458is.tar.gz]
+===20170830-114658,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz]
+===20170830-114707,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHDmAN346AAl5WLU-YRY004.jpg]
+===20170830-114707,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg]
+===20170830-114707,main[62]=== query_string = [cmd=increase&fileId=group1%2FM00%2F00%2F00%2FwKgTG1mmHDmAN346AAl5WLU-YRY004.jpg]
+===20170830-114707,main[100]=== increase: fileid=[group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg]
+===20170830-114718,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-114718,main[70]=== fromd = [0], count = 8
+===20170830-114718,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-141632,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-141632,main[70]=== fromd = [0], count = 8
+===20170830-141632,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-142327,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-142327,main[70]=== fromd = [0], count = 8
+===20170830-142327,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-143248,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-143248,main[70]=== fromd = [0], count = 8
+===20170830-143248,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"kind":	1,
+			"title_m":	"Lighthouse.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 10:43:23",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mk1MuAdTrjAAiQfKHDaaQ402.jpg",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-143307,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-143307,main[70]=== fromd = [0], count = 8
+===20170830-143307,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-143355,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-143355,main[70]=== fromd = [0], count = 8
+===20170830-143356,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-143401,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-143401,main[70]=== fromd = [0], count = 8
+===20170830-143401,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-143726,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-143726,main[70]=== fromd = [0], count = 8
+===20170830-143726,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-143802,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=]
+===20170830-143802,main[70]=== fromd = [0], count = 8
+===20170830-143802,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-151137,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=haha]
+===20170830-151137,main[70]=== fromd = [0], count = 8
+===20170830-151137,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-151227,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=haha]
+===20170830-151227,main[70]=== fromd = [0], count = 8
+===20170830-151227,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-151616,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=haha]
+===20170830-151616,main[70]=== fromd = [0], count = 8
+===20170830-151616,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-165536,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=haha]
+===20170830-165536,main[70]=== fromd = [0], count = 8
+===20170830-165536,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-165554,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=xixi]
+===20170830-165554,main[70]=== fromd = [0], count = 8
+===20170830-165554,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-170300,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=xixi]
+===20170830-170300,main[70]=== fromd = [0], count = 8
+===20170830-170300,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-170315,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=gailun]
+===20170830-170315,main[70]=== fromd = [0], count = 8
+===20170830-170315,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-170942,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=gailun]
+===20170830-170942,main[70]=== fromd = [0], count = 8
+===20170830-170942,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]
+===20170830-171006,main[62]=== query_string = [cmd=newFile&fromId=0&count=8&user=gailun]
+===20170830-171006,main[70]=== fromd = [0], count = 8
+===20170830-171006,main[87]=== json_str =[
+{
+	"games":	[{
+			"id":	"group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"kind":	1,
+			"title_m":	"琴之翼 Vk 克.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 14:32:56",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmXBiAfo3QAFFjYTSlXPE115.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"kind":	1,
+			"title_m":	"fastdfs-nginx-module_v1.16.tar.gz",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 11:46:49",
+			"picurl_m":	"http://192.168.19.27/static/file_png/gz.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmNSmAHVveAABEZj458is.tar.gz",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"kind":	1,
+			"title_m":	"镜夜.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:01:37",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHIGAU31FAEPR30rhVRo463.mp3",
+			"pv":	5,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"kind":	1,
+			"title_m":	"shuimu.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAX7sIAAvWFkcZHjA193.jpg",
+			"pv":	1,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"kind":	1,
+			"title_m":	"郁金香1.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:25",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHDmAN346AAl5WLU-YRY004.jpg",
+			"pv":	2,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"kind":	1,
+			"title_m":	"c01.jpg",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 10:00:15",
+			"picurl_m":	"http://192.168.19.27/static/file_png/jpg.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHC-AW9v2AAAgNif9eo8418.jpg",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-30 09:59:54",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mmHBqASXJkAIRY2evSXEk795.mp3",
+			"pv":	0,
+			"hot":	0
+		}, {
+			"id":	"group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"kind":	1,
+			"title_m":	"Angel - Sarah McLachlan.mp3",
+			"title_s":	"itcast",
+			"descrip":	"2017-08-29 16:40:09",
+			"picurl_m":	"http://192.168.19.27/static/file_png/mp3.png",
+			"url":	"http://192.168.19.27/group1/M00/00/00/wKgTG1mlKGmAeDT8AIRY2evSXEk294.mp3",
+			"pv":	0,
+			"hot":	0
+		}]
+}
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="eims/protocols/message_handler.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="8505" topLine="269" />
+	</File>
+	<File name="frame/db/db_oper.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1998" topLine="76" />
+	</File>
+	<File name="frame/db/mysql_cnt.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1515" topLine="73" />
+	</File>
+	<File name="frame/io/tcp/tcp_session.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="3829" topLine="131" />
+	</File>
+	<File name="frame/io/udp/net_udp_writer.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1852" topLine="69" />
+	</File>
+	<File name="frame/security/ecc_des.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="10113" topLine="248" />
+	</File>
+</CodeBlocks_layout_file>

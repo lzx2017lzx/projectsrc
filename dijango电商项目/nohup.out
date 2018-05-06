@@ -1,0 +1,213 @@
+nohup: ignoring input
+[03/Apr/2018 00:59:25]"GET / HTTP/1.1" 200 11112
+[03/Apr/2018 00:59:26]"GET /static/images/slide03.jpg HTTP/1.1" 200 70593
+[03/Apr/2018 00:59:26]"GET /static/images/slide04.jpg HTTP/1.1" 200 62570
+[03/Apr/2018 00:59:26]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[03/Apr/2018 00:59:26]"GET /favicon.ico HTTP/1.1" 404 2635
+[03/Apr/2018 00:59:27]"GET / HTTP/1.1" 200 11112
+[03/Apr/2018 00:59:28]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[03/Apr/2018 00:59:28]"GET / HTTP/1.1" 200 11112
+[03/Apr/2018 00:59:28]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[03/Apr/2018 00:59:28]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[03/Apr/2018 00:59:30]"GET /user/register HTTP/1.1" 301 0
+[03/Apr/2018 00:59:30]"GET /user/register/ HTTP/1.1" 200 2568
+[03/Apr/2018 00:59:30]"GET /static/js/register.js HTTP/1.1" 200 2566
+[03/Apr/2018 00:59:30]"GET /static/images/logo02.png HTTP/1.1" 200 18818
+[03/Apr/2018 00:59:30]"GET /static/images/interval_line.png HTTP/1.1" 200 1123
+[03/Apr/2018 00:59:30]"GET /static/images/icons02.png HTTP/1.1" 200 2071
+[03/Apr/2018 00:59:30]"GET /static/images/register_banner.png HTTP/1.1" 200 54894
+[03/Apr/2018 00:59:32]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[03/Apr/2018 00:59:59]"GET /user/login HTTP/1.1" 301 0
+[03/Apr/2018 00:59:59]"GET /user/login/ HTTP/1.1" 200 2894
+[03/Apr/2018 00:59:59]"GET /static/images/login_banner.png HTTP/1.1" 200 156498
+[03/Apr/2018 01:00:02]"GET /user/register/ HTTP/1.1" 200 2568
+[03/Apr/2018 01:00:04]"GET /user/info HTTP/1.1" 301 0
+[03/Apr/2018 01:00:04]"GET /user/info/ HTTP/1.1" 302 0
+[03/Apr/2018 01:00:04]"GET /user/login/ HTTP/1.1" 200 2894
+[03/Apr/2018 01:00:06]"GET /user/register HTTP/1.1" 301 0
+[03/Apr/2018 01:00:06]"GET /user/cart HTTP/1.1" 404 3668
+[03/Apr/2018 01:00:06]"GET /user/register HTTP/1.1" 301 0
+[03/Apr/2018 01:00:06]"GET /user/register/ HTTP/1.1" 200 2568
+[03/Apr/2018 01:00:09]"GET /user/order HTTP/1.1" 301 0
+[03/Apr/2018 01:00:09]"GET /user/order/ HTTP/1.1" 302 0
+[03/Apr/2018 01:00:09]"GET /user/login/ HTTP/1.1" 200 2894
+[03/Apr/2018 01:01:09]"GET /user/register HTTP/1.1" 301 0
+[03/Apr/2018 01:01:09]"GET /user/register/ HTTP/1.1" 200 2568
+[03/Apr/2018 01:01:09]"GET /static/css/reset.css HTTP/1.1" 200 664
+[03/Apr/2018 01:01:09]"GET /static/css/main.css HTTP/1.1" 200 22992
+[03/Apr/2018 01:01:09]"GET /static/js/register.js HTTP/1.1" 200 2566
+[03/Apr/2018 01:01:09]"GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+[09/Apr/2018 12:01:21]"GET / HTTP/1.1" 200 11112
+[09/Apr/2018 12:01:21]"GET /static/css/reset.css HTTP/1.1" 200 664
+[09/Apr/2018 12:01:21]"GET /static/css/main.css HTTP/1.1" 200 22992
+[09/Apr/2018 12:01:21]"GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+[09/Apr/2018 12:01:21]"GET /static/js/slide.js HTTP/1.1" 200 2473
+[09/Apr/2018 12:01:22]"GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+[09/Apr/2018 12:01:22]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[09/Apr/2018 12:01:22]"GET /static/images/logo.png HTTP/1.1" 200 9987
+[09/Apr/2018 12:01:22]"GET /static/images/slide.jpg HTTP/1.1" 200 43271
+[09/Apr/2018 12:01:22]"GET /static/images/slide02.jpg HTTP/1.1" 200 46855
+[09/Apr/2018 12:01:22]"GET /static/images/slide04.jpg HTTP/1.1" 200 62570
+[09/Apr/2018 12:01:22]"GET /static/images/slide03.jpg HTTP/1.1" 200 70593
+[09/Apr/2018 12:01:22]"GET /static/images/adv01.jpg HTTP/1.1" 200 13988
+[09/Apr/2018 12:01:22]"GET /static/images/adv02.jpg HTTP/1.1" 200 15859
+[09/Apr/2018 12:01:22]"GET /static/images/banner01.jpg HTTP/1.1" 200 9919
+[09/Apr/2018 12:01:23]"GET /static/images/goods/goods020.jpg HTTP/1.1" 200 9320
+[09/Apr/2018 12:01:23]"GET /static/images/icons.png HTTP/1.1" 200 5931
+[09/Apr/2018 12:01:23]"GET /static/images/goods/goods001.jpg HTTP/1.1" 200 8349
+[09/Apr/2018 12:01:23]"GET /static/images/goods/goods002.jpg HTTP/1.1" 200 9102
+[09/Apr/2018 12:01:23]"GET /static/images/banner02.jpg HTTP/1.1" 200 18351
+[09/Apr/2018 12:01:24]"GET /static/images/goods/goods018.jpg HTTP/1.1" 200 9424
+[09/Apr/2018 12:01:24]"GET /static/images/goods/goods021.jpg HTTP/1.1" 200 14649
+[09/Apr/2018 12:01:24]"GET /static/images/goods/goods012.jpg HTTP/1.1" 200 7864
+[09/Apr/2018 12:01:24]"GET /static/images/goods/goods003.jpg HTTP/1.1" 200 9612
+[09/Apr/2018 12:01:24]"GET /static/images/goods/goods019.jpg HTTP/1.1" 200 9457
+[09/Apr/2018 12:01:24]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[09/Apr/2018 12:01:24]"GET /static/images/banner03.jpg HTTP/1.1" 200 13013
+[09/Apr/2018 12:01:24]"GET /static/images/goods.jpg HTTP/1.1" 200 6100
+[09/Apr/2018 12:01:24]"GET /static/images/banner04.jpg HTTP/1.1" 200 10823
+[09/Apr/2018 12:01:25]"GET /static/images/banner05.jpg HTTP/1.1" 200 16081
+[09/Apr/2018 12:01:25]"GET /static/images/banner06.jpg HTTP/1.1" 200 14257
+[09/Apr/2018 12:01:26]"GET /favicon.ico HTTP/1.1" 404 2635
+[09/Apr/2018 13:09:03]"GET / HTTP/1.1" 200 11112
+[09/Apr/2018 13:09:15]"GET / HTTP/1.1" 200 11112
+[09/Apr/2018 13:09:15]"GET /static/css/reset.css HTTP/1.1" 200 664
+[09/Apr/2018 13:09:15]"GET /static/css/main.css HTTP/1.1" 200 22992
+[09/Apr/2018 13:09:15]"GET /static/js/slide.js HTTP/1.1" 200 2473
+[09/Apr/2018 13:09:15]"GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+[09/Apr/2018 13:09:15]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[09/Apr/2018 13:09:15]"GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+    self.handle()
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[12/Apr/2018 09:41:15]"GET / HTTP/1.1" 200 11112
+[12/Apr/2018 09:41:15]"GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+[12/Apr/2018 09:41:15]"GET /static/css/reset.css HTTP/1.1" 200 664
+[12/Apr/2018 09:41:15]"GET /static/js/jquery-ui.min.js HTTP/1.1" 200 70994
+[12/Apr/2018 09:41:15]"GET /static/images/logo.png HTTP/1.1" 200 9987
+[12/Apr/2018 09:41:15]"GET /static/js/slide.js HTTP/1.1" 200 2473
+[12/Apr/2018 09:41:15]"GET /static/css/main.css HTTP/1.1" 200 22992
+[12/Apr/2018 09:41:15]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[12/Apr/2018 09:41:15]"GET /static/images/slide.jpg HTTP/1.1" 200 43271
+[12/Apr/2018 09:41:15]"GET /static/images/slide02.jpg HTTP/1.1" 200 46855
+[12/Apr/2018 09:41:15]"GET /static/images/slide03.jpg HTTP/1.1" 200 70593
+[12/Apr/2018 09:41:15]"GET /static/images/slide04.jpg HTTP/1.1" 200 62570
+[12/Apr/2018 09:41:15]"GET /static/images/adv01.jpg HTTP/1.1" 200 13988
+[12/Apr/2018 09:41:15]"GET /static/images/adv02.jpg HTTP/1.1" 200 15859
+[12/Apr/2018 09:41:16]"GET /static/images/goods/goods003.jpg HTTP/1.1" 200 9612
+[12/Apr/2018 09:41:16]"GET /static/images/banner01.jpg HTTP/1.1" 200 9919
+[12/Apr/2018 09:41:16]"GET /static/images/goods/goods002.jpg HTTP/1.1" 200 9102
+[12/Apr/2018 09:41:16]"GET /static/images/goods/goods001.jpg HTTP/1.1" 200 8349
+[12/Apr/2018 09:41:17]"GET /static/images/goods/goods012.jpg HTTP/1.1" 200 7864
+[12/Apr/2018 09:41:17]"GET /static/images/banner02.jpg HTTP/1.1" 200 18351
+[12/Apr/2018 09:41:17]"GET /static/images/goods/goods018.jpg HTTP/1.1" 200 9424
+[12/Apr/2018 09:41:17]"GET /static/images/goods/goods019.jpg HTTP/1.1" 200 9457
+[12/Apr/2018 09:41:17]"GET /static/images/goods/goods020.jpg HTTP/1.1" 200 9320
+[12/Apr/2018 09:41:17]"GET /static/images/banner03.jpg HTTP/1.1" 200 13013
+[12/Apr/2018 09:41:18]"GET /static/images/goods/goods021.jpg HTTP/1.1" 200 14649
+[12/Apr/2018 09:41:18]"GET /static/images/goods.jpg HTTP/1.1" 200 6100
+[12/Apr/2018 09:41:18]"GET /static/images/banner04.jpg HTTP/1.1" 200 10823
+[12/Apr/2018 09:41:18]"GET /static/images/banner05.jpg HTTP/1.1" 200 16081
+[12/Apr/2018 09:41:18]"GET /static/images/banner06.jpg HTTP/1.1" 200 14257
+[12/Apr/2018 09:41:18]"GET /static/images/icons.png HTTP/1.1" 200 5931
+[12/Apr/2018 09:41:18]"GET /favicon.ico HTTP/1.1" 404 2635
+[12/Apr/2018 09:41:21]"GET /favicon.ico HTTP/1.1" 404 2635
+[12/Apr/2018 09:41:24]"GET /favicon.ico HTTP/1.1" 404 2635
+[12/Apr/2018 09:41:26]"GET /favicon.ico HTTP/1.1" 404 2635
+[12/Apr/2018 09:41:28]"GET / HTTP/1.1" 200 11112
+[12/Apr/2018 09:41:28]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[12/Apr/2018 09:41:28]"GET /favicon.ico HTTP/1.1" 404 2635
+[12/Apr/2018 09:41:28]"GET / HTTP/1.1" 200 11112
+[12/Apr/2018 09:41:28]"GET /static/js/slideshow.js HTTP/1.1" 404 1663
+[12/Apr/2018 09:41:29]"GET /favicon.ico HTTP/1.1" 404 2635
+[12/Apr/2018 09:41:30]"GET /favicon.ico HTTP/1.1" 404 2635
+[13/Apr/2018 18:22:18]"GET http://www.epochtimes.com/ HTTP/1.1" 404 1680
+[13/Apr/2018 18:22:18]"GET http://www.minghui.org/ HTTP/1.1" 404 1668
+[13/Apr/2018 18:22:18]"GET http://www.bing.com/ HTTP/1.1" 404 1656
+[13/Apr/2018 18:22:18]"GET http://www.baidu.com/ HTTP/1.1" 404 1660
+[13/Apr/2018 18:22:18]"GET http://www.rfa.org/ HTTP/1.1" 404 1652
+[13/Apr/2018 18:22:18]"GET http://wujieliulan.com/ HTTP/1.1" 404 1668
+[13/Apr/2018 18:22:18]"GET http://www.123cha.com/ HTTP/1.1" 404 1664
+[13/Apr/2018 18:22:18]"CONNECT www.voanews.com:443 HTTP/1.0" 404 1674
+[13/Apr/2018 18:22:18]"GET http://www.boxun.com/ HTTP/1.1" 404 1660
+[18/Apr/2018 17:38:19]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*\xe0\x00\x00\x00\x00\x00Cookie:')
+[18/Apr/2018 17:38:20]
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+    self.handle()
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Apr/2018 06:48:17]"GET / HTTP/1.1" 200 11112
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+    self.handle()
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[20/Apr/2018 11:19:57]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[20/Apr/2018 11:19:57]
+[20/Apr/2018 11:19:58]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[20/Apr/2018 11:19:58]
+[20/Apr/2018 20:46:32]"GET http://www.baidu.com/ HTTP/1.1" 404 1660
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+    self.handle()
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 102, in __init__
+    super(WSGIRequestHandler, self).__init__(*args, **kwargs)
+  File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+    self.handle()
+  File "/root/Envs/h5/local/lib/python2.7/site-packages/django/core/servers/basehttp.py", line 167, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+[30/Apr/2018 10:46:09]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[30/Apr/2018 10:46:09]
+[30/Apr/2018 10:46:10]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%\xe0\x00\x00\x00\x00\x00Cookie:')
+[30/Apr/2018 10:46:10]
+[30/Apr/2018 18:02:23]code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&\xe0\x00\x00\x00\x00\x00Cookie:')
+[30/Apr/2018 18:02:23]

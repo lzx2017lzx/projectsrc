@@ -1,0 +1,16 @@
+===20170824-162351,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170824-162351,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170824-171015,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170824-171015,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170824-171251,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170824-171251,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20170824-172659,rop_connectdb_nopwd[369]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20170824-172659,rop_disconnect[525]=== [+][GMS_REDIS]Disconnect SUCCESS!
+

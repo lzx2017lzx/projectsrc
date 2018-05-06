@@ -1,0 +1,30 @@
+#!/bin/bash
+
+start()
+{
+    echo "start eims_server_terminal"
+    cd /root/eims_server_terminal/bin/
+    /root/eims_server_terminal/bin/eims_server_terminal &
+    exit 0;
+}
+stop()
+{
+    pkill eims_server_terminal
+    echo "stop eims_server_terminal"
+}
+
+case "$1" in
+start)
+    start
+    ;;
+stop)
+    stop
+    ;;
+restart)
+    stop
+    start
+    ;;
+*)
+    echo "usage: $0 start|stop|restart"
+    exit 0;
+esac

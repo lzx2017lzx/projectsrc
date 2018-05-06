@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="eims_server_terminal" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/eims_server_terminal" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/eims_server_terminal" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="0" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-ldl" />
+			<Add directory="/usr/include" />
+			<Add directory="public/depends/lua" />
+			<Add directory="public/depends/boost/include" />
+			<Add directory="public/depends/mysql/include" />
+		</Compiler>
+		<Linker>
+			<Add library="liblua.a" />
+			<Add library="boost_thread" />
+			<Add library="boost_system" />
+			<Add library="mysqlclient_r" />
+			<Add directory="public/depends/lua" />
+			<Add directory="public/depends/boost/lib" />
+			<Add directory="public/depends/mysql/lib" />
+		</Linker>
+		<Unit filename="eims/protocols/message.cpp" />
+		<Unit filename="eims/protocols/message.h" />
+		<Unit filename="eims/protocols/message_handler.cpp" />
+		<Unit filename="eims/protocols/message_handler.h" />
+		<Unit filename="frame/common/common.cpp" />
+		<Unit filename="frame/common/common.h" />
+		<Unit filename="frame/common/consts.cpp" />
+		<Unit filename="frame/common/consts.h" />
+		<Unit filename="frame/common/global.cpp" />
+		<Unit filename="frame/common/global.h" />
+		<Unit filename="frame/common/meta.cpp" />
+		<Unit filename="frame/common/meta.h" />
+		<Unit filename="frame/common/tools.cpp" />
+		<Unit filename="frame/common/tools.h" />
+		<Unit filename="frame/common/utilitys.cpp" />
+		<Unit filename="frame/common/utilitys.h" />
+		<Unit filename="frame/db/db_oper.cpp" />
+		<Unit filename="frame/db/db_oper.h" />
+		<Unit filename="frame/db/mysql_cnt.cpp" />
+		<Unit filename="frame/db/mysql_cnt.h" />
+		<Unit filename="frame/debug/log.cpp" />
+		<Unit filename="frame/debug/log.h" />
+		<Unit filename="frame/debug/log_oper.cpp" />
+		<Unit filename="frame/debug/log_oper.h" />
+		<Unit filename="frame/io/http/http_connection.cpp" />
+		<Unit filename="frame/io/http/http_connection.hpp" />
+		<Unit filename="frame/io/http/http_header.hpp" />
+		<Unit filename="frame/io/http/http_mime_types.cpp" />
+		<Unit filename="frame/io/http/http_mime_types.hpp" />
+		<Unit filename="frame/io/http/http_reply.cpp" />
+		<Unit filename="frame/io/http/http_reply.hpp" />
+		<Unit filename="frame/io/http/http_request.hpp" />
+		<Unit filename="frame/io/http/http_request_handler.cpp" />
+		<Unit filename="frame/io/http/http_request_handler.hpp" />
+		<Unit filename="frame/io/http/http_request_parser.cpp" />
+		<Unit filename="frame/io/http/http_request_parser.hpp" />
+		<Unit filename="frame/io/http/http_server.cpp" />
+		<Unit filename="frame/io/http/http_server.hpp" />
+		<Unit filename="frame/io/tcp/tcp_server.cpp" />
+		<Unit filename="frame/io/tcp/tcp_server.h" />
+		<Unit filename="frame/io/tcp/tcp_session.cpp" />
+		<Unit filename="frame/io/tcp/tcp_session.h" />
+		<Unit filename="frame/io/tcp/tcp_session_pool.cpp" />
+		<Unit filename="frame/io/tcp/tcp_session_pool.h" />
+		<Unit filename="frame/io/udp/net_udp_writer.cpp" />
+		<Unit filename="frame/io/udp/net_udp_writer.h" />
+		<Unit filename="frame/lua/lua_callcpp.cpp" />
+		<Unit filename="frame/lua/lua_callcpp.h" />
+		<Unit filename="frame/lua/lua_oper.cpp" />
+		<Unit filename="frame/lua/lua_oper.h" />
+		<Unit filename="frame/security/ecc_algorithm.cpp" />
+		<Unit filename="frame/security/ecc_algorithm.h" />
+		<Unit filename="frame/security/ecc_des.cpp" />
+		<Unit filename="frame/security/ecc_des.h" />
+		<Unit filename="frame/security/ecc_encry.cpp" />
+		<Unit filename="frame/security/ecc_encry.h" />
+		<Unit filename="frame/security/ecc_global.h" />
+		<Unit filename="frame/security/ecc_nn.cpp" />
+		<Unit filename="frame/security/ecc_nn.h" />
+		<Unit filename="frame/security/shove/configure_file.cpp" />
+		<Unit filename="frame/security/shove/configure_file.h" />
+		<Unit filename="frame/security/shove/convert.cpp" />
+		<Unit filename="frame/security/shove/convert.h" />
+		<Unit filename="frame/security/shove/jwsmtp/base64.cpp" />
+		<Unit filename="frame/security/shove/jwsmtp/base64.h" />
+		<Unit filename="frame/security/shove/jwsmtp/compat.cpp" />
+		<Unit filename="frame/security/shove/jwsmtp/compat.h" />
+		<Unit filename="frame/security/shove/jwsmtp/jwsmtp.h" />
+		<Unit filename="frame/security/shove/jwsmtp/mailer.cpp" />
+		<Unit filename="frame/security/shove/jwsmtp/mailer.h" />
+		<Unit filename="frame/security/shove/security/md5.cpp" />
+		<Unit filename="frame/security/shove/security/md5.h" />
+		<Unit filename="frame/security/shove/security/ses.cpp" />
+		<Unit filename="frame/security/shove/security/ses.h" />
+		<Unit filename="frame/security/shove/utility.cpp" />
+		<Unit filename="frame/security/shove/utility.h" />
+		<Unit filename="frame/servermanager/server_manager.cpp" />
+		<Unit filename="frame/servermanager/server_manager.h" />
+		<Unit filename="frame/xml/xml_oper.cpp" />
+		<Unit filename="frame/xml/xml_oper.h" />
+		<Unit filename="frame/xml/xml_parser.cpp" />
+		<Unit filename="frame/xml/xml_parser.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="other/swig/db_oper_wrap.cxx" />
+		<Unit filename="other/swig/log_oper_wrap.cxx" />
+		<Unit filename="other/swig/tools_wrap.cxx" />
+		<Unit filename="other/swig/xml_oper_wrap.cxx" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

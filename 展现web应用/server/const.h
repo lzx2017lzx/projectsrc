@@ -1,0 +1,21 @@
+#ifndef __CONST__H
+#define __CONST___H
+
+#define SERVERERROR -10
+#define PASSWORDERROR -3
+#define REGISTERERROR -2
+#define SUCCESS 0
+#define LOGINSUCCESS 1
+#define REGISTERSUCCESS 2
+#define GETAPPLICATIONURLSUCCESS 3
+#define USEREXIST -100
+#define UNKNOWN -1000
+#define TESTSYNRESPSUC 7 
+#define SYNRESPSUC 8 
+#define GETAPPLICATIONURLSUCCESS 3
+#define RESPONSYNSUC 9
+
+
+#endif
+
+
